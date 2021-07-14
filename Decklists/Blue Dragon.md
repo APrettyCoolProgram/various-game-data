@@ -1,5 +1,5 @@
 # Blue Dragon
-
+```
 Deck
 3 Blue Dragon (AFR) 49
 18 Island (UST) 213
@@ -20,3 +20,4 @@ Deck
 2 Witching Well (ELD) 74
 2 Opt (STA) 19
 4 Blink of an Eye (DAR) 46
+```
