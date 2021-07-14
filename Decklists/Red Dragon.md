@@ -1,4 +1,5 @@
 # Red Dragon
+```
 Deck
 4 Red Dragon (AFR) 160
 24 Mountain (UST) 215
@@ -22,8 +23,10 @@ Deck
 
 Sideboard
 7 Dragon's Approach (STX) 97
+```
 
 ### 210713
+```
 Deck
 3 Red Dragon (AFR) 160
 24 Mountain (UST) 215
@@ -48,8 +51,10 @@ Deck
 
 Sideboard
 7 Dragon's Approach (STX) 97
+```
 
 ### 210712
+```
 Deck
 2 Red Dragon (AFR) 160
 24 Mountain (UST) 215
@@ -74,3 +79,4 @@ Deck
 
 Sideboard
 7 Dragon's Approach (STX) 97
+```
