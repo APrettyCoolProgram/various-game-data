@@ -1,6 +1,6 @@
 # Heir of the Ancients
-
-eck
+```
+Deck
 13 Plains (UST) 212
 11 Mountain (UST) 215
 2 Danitha Capashen, Paragon (DAR) 12
@@ -15,3 +15,4 @@ eck
 2 Nahiri, Heir of the Ancients (ZNR) 230
 4 Kargan Warleader (ZNR) 224
 4 Kor Blademaster (ZNR) 21
+```
