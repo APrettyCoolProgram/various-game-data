@@ -1,3 +1,5 @@
+# Blue Dragon
+
 Deck
 3 Blue Dragon (AFR) 49
 18 Island (UST) 213
