@@ -1,5 +1,5 @@
 # Rogue Class
-
+```
 Deck
 1 Rogue Class (AFR) 230
 11 Island (UST) 213
@@ -22,3 +22,4 @@ Deck
 1 Glasspool Mimic (ZNR) 60
 2 Blackbloom Rogue (ZNR) 91
 2 Zof Consumption (ZNR) 132
+```
