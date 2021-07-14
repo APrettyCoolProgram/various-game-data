@@ -18,9 +18,7 @@ Deck
 1 Demon Bolt (KHM) 129
 
 Sideboard
-
 ```
-
 
 ### 210131
 ```
@@ -43,4 +41,3 @@ Deck
 Sideboard
 
 ```
-
