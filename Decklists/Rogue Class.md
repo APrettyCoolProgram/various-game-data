@@ -1,3 +1,5 @@
+# Rogue Class
+
 Deck
 1 Rogue Class (AFR) 230
 11 Island (UST) 213
