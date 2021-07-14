@@ -1,3 +1,5 @@
+# Selesnya Giants
+
 Deck
 2 Rumbling Sentry (THB) 35
 12 Plains (UST) 212
