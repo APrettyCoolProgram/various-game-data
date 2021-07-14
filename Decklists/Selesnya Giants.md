@@ -1,5 +1,5 @@
 # Selesnya Giants
-
+```
 Deck
 2 Rumbling Sentry (THB) 35
 12 Plains (UST) 212
@@ -25,3 +25,4 @@ Deck
 2 Flower // Flourish (GRN) 226
 4 Pacifism (IKO) 25
 1 In Search of Greatness (KHM) 177
+```
