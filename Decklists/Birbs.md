@@ -1,6 +1,28 @@
 # Birbs
 ```
 Deck
+12 Plains (UST) 212
+4 Healer's Hawk (GRN) 14
+4 Battlefield Raptor (KHM) 3
+1 Ranger's Hawk (AFR) 37
+1 Rustwing Falcon (M19) 36
+4 Silver Raven (AFR) 74
+12 Island (UST) 213
+4 Zephyr Gull (ANB) 44
+2 Empyrean Eagle (M20) 208
+2 Watcher of the Spheres (M21) 227
+3 Jwari Disruption (ZNR) 64
+4 Pacifism (IKO) 25
+2 Warden of Evos Isle (M20) 79
+1 Augury Raven (KHM) 44
+1 Aven Gagglemaster (M21) 5
+1 Alrund's Epiphany (KHM) 41
+2 Aerial Assault (M20) 1
+```
+
+## 210714
+```
+Deck
 8 Island (UST) 213
 4 Healer's Hawk (GRN) 14
 8 Plains (UST) 212
