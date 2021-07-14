@@ -1,5 +1,5 @@
 # Skeletons
-
+```
 Deck
 20 Swamp (UST) 214
 2 Blood Beckoning (ZNR) 92
@@ -15,8 +15,9 @@ Deck
 4 Withercrown (KHM) 119
 2 Gutterbones (RNA) 76
 4 Drudge Sentinel (DAR) 89
-
+```
 ### 210712
+```
 Deck
 20 Swamp (AFR) 273
 2 Blood Beckoning (ZNR) 92
@@ -33,3 +34,4 @@ Deck
 2 Gutterbones (RNA) 76
 4 Drudge Sentinel (DAR) 89
 1 Tinybones, Trinket Thief (JMP) 17
+```
