@@ -1,5 +1,5 @@
 # Deathtouch
-
+```
 Deck
 10 Swamp (UST) 214
 2 Boot Nipper (IKO) 76
@@ -19,6 +19,7 @@ Deck
 2 Murder (M20) 109
 2 Barren Moor (ONS) 312
 2 Tranquil Thicket (ONS) 326
+```
 
 ### 210713
 ```
