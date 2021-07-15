@@ -1,4 +1,4 @@
-# Birbs
+# Azorious Birbs
 ```
 Deck
 12 Plains (UST) 212
