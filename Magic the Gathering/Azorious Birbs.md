@@ -1,7 +1,9 @@
 # Azorious Birbs
 ![Azorious Birbs](deck-details/azorious-birbs.png)
 
-<h1 align="center">
+<table align="center">
+<tr>
+<td>
 
 ```
 Deck
@@ -22,9 +24,14 @@ Deck
 2 Aerial Assault (M20) 1
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
+
+Sideboard
+---
 ```
 
-</h1>
+</td>
+<tr>
+</table>
 
 ## ARCHIVES
 ### 210715
