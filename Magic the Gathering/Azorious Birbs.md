@@ -64,18 +64,6 @@ Deck
 </td>
 <td>
 
-
-</td>
-<td>
-
-
-</td>
-<tr>
-</table>
-
-
-
-
 ### 210714
 ```
 Deck
@@ -105,6 +93,19 @@ Deck
 Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
+
+</td>
+<td>
+
+
+</td>
+<tr>
+</table>
+
+
+
+
+
 ### 210629
 ```
 Deck
