@@ -1,6 +1,28 @@
 # Golgari Deathtouch
 ```
 Deck
+8 Swamp (UST) 214
+2 Boot Nipper (IKO) 76
+2 Grimdancer (IKO) 90
+2 Wasteland Scorpion (AKR) 135
+2 Bone Picker (JMP) 212
+2 Vengeful Reaper (KHM) 116
+3 Moss Viper (THB) 179
+8 Forest (UST) 216
+3 Sedge Scorpion (M20) 192
+2 Underdark Basilisk (AFR) 208
+2 Kraul Stinger (WAR) 165
+4 Leyline Prowler (WAR) 202
+4 Pitiless Gorgon (GRN) 218
+4 Poison-Tip Archer (M19) 220
+2 Root Snare (RNA) 137
+2 Murder (M20) 109
+2 Barren Moor (ONS) 312
+2 Tranquil Thicket (ONS) 326
+4 Darkbore Pathway (KHM) 254
+```
+### 210713
+Deck
 10 Swamp (UST) 214
 2 Boot Nipper (IKO) 76
 2 Grimdancer (IKO) 90
@@ -20,7 +42,6 @@ Deck
 2 Barren Moor (ONS) 312
 2 Tranquil Thicket (ONS) 326
 ```
-
 ### 210713
 ```
 Deck
@@ -47,11 +68,7 @@ Deck
 1 Witch of the Moors (JMP) 18
 1 Grim Tutor (M21) 103
 2 Exquisite Blood (JMP) 231
-
-Sideboard
-
 ```
-
 ### 201024
 ```
 Deck
@@ -70,12 +87,7 @@ Deck
 4 Barren Moor (ONS) 312
 2 Wasteland Scorpion (AKR) 135
 2 Bone Picker (JMP) 212
-
-Sideboard
-
 ```
-
-
 ### 200923
 ```
 Deck
@@ -91,8 +103,4 @@ Deck
 4 Murder (M20) 109
 4 Grasp of Darkness (M21) 102
 1 Cast Down (DAR) 81
-
-Sideboard
-
 ```
-
