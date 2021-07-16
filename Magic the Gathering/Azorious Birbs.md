@@ -30,7 +30,7 @@ Sideboard
 ```
 
 </td>
-<tr>
+</tr>
 </table>
 
 ## ARCHIVES
