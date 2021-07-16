@@ -1,5 +1,5 @@
 # Azorious Birbs
-![Azorious Birbs](/deck-details/azorious-birbs.md)
+![Azorious Birbs](/deck-details/azorious-birbs.png)
 ```
 Deck
 10 Plains (UST) 212
