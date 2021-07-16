@@ -36,7 +36,7 @@ Sideboard
 ## ARCHIVES
 
 <table>
-<tr>
+<tr valign="top">
 <td>
 
 ### 210715
@@ -94,17 +94,10 @@ Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
 
+</tr>
+<tr>
 </td>
 <td>
-
-
-</td>
-<tr>
-</table>
-
-
-
-
 
 ### 210629
 ```
@@ -135,3 +128,7 @@ Deck
 Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
+
+</td>
+<tr>
+</table>
