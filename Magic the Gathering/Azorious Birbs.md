@@ -1,5 +1,8 @@
 # Azorious Birbs
 ![Azorious Birbs](deck-details/azorious-birbs.png)
+
+<h1 align="center">
+
 ```
 Deck
 10 Plains (UST) 212
@@ -20,6 +23,9 @@ Deck
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
 ```
+
+</h1>
+
 ## ARCHIVES
 ### 210715
 ```
