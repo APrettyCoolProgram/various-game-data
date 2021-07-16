@@ -34,6 +34,11 @@ Sideboard
 </table>
 
 ## ARCHIVES
+
+<table>
+<tr>
+<td>
+
 ### 210715
 ```
 Deck
@@ -55,6 +60,22 @@ Deck
 1 Alrund's Epiphany (KHM) 41
 2 Aerial Assault (M20) 1
 ```
+
+</td>
+<td>
+
+
+</td>
+<td>
+
+
+</td>
+<tr>
+</table>
+
+
+
+
 ### 210714
 ```
 Deck
