@@ -23,7 +23,6 @@ Deck
 1 Doomskar Titan (KHM) 130
 1 Hall of Storm Giants (AFR) 257
 ```
-
 #### 210713
 ```
 Deck

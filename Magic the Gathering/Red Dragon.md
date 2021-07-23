@@ -14,8 +14,6 @@ Deck
 2 Storm Fleet Pyromancer (XLN) 163
 2 Burning Sun's Avatar (XLN) 135
 ```
-
-
 ### 210722
 ```
 Deck
@@ -42,7 +40,6 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-
 ### 210713
 ```
 Deck
@@ -70,7 +67,6 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-
 ### 210712
 ```
 Deck
