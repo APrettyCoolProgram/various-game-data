@@ -1,10 +1,4 @@
 # Azorious Birbs
-![Azorious Birbs](deck-details/azorious-birbs.png)
-
-<table align="center">
-<tr>
-<td>
-
 ```
 Deck
 10 Plains (UST) 212
@@ -26,18 +20,7 @@ Deck
 4 Hengegate Pathway (KHM) 260
 
 Sideboard
----
 ```
-
-</td>
-</tr>
-</table>
-
-## ARCHIVES
-
-<table>
-<tr valign="top">
-<td>
 
 ### 210715
 ```
@@ -60,10 +43,6 @@ Deck
 1 Alrund's Epiphany (KHM) 41
 2 Aerial Assault (M20) 1
 ```
-
-</td>
-<td>
-
 ### 210714
 ```
 Deck
@@ -93,12 +72,6 @@ Deck
 Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
-
-</tr>
-<tr>
-</td>
-<td>
-
 ### 210629
 ```
 Deck
@@ -128,7 +101,3 @@ Deck
 Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
-
-</td>
-<tr>
-</table>
