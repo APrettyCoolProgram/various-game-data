@@ -1,5 +1,9 @@
 # Judith & The Pirates
 ```
+
+```
+### 210724
+```
 Deck
 1 Dire Fleet Neckbreaker (RIX) 156
 1 Grasping Scoundrel (RIX) 74
@@ -40,8 +44,5 @@ Deck
 1 Judith, the Scourge Diva (RNA) 185
 14 Mountain (UST) 215
 9 Swamp (UST) 214
-
 Sideboard
-
 ```
-
