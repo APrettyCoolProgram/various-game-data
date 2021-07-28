@@ -3,12 +3,8 @@
 
 <table>
 <tr>
-<td valign="top">
-</td>
 
-<td img src="RepositoryData/Asset/Image/Document/README/spacer.png" alt="blank-spacer" width="1000" height="1">
-
-![statistics](Resources/red-dragon.png)
+<td img src="Resources/red-dragon.png" alt="blank-spacer" width="1000" height="1">
 
 </td>
 </tr>
