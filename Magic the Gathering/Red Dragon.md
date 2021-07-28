@@ -1,5 +1,5 @@
 # **Red Dragon**
-> test
+> Basic dragon deck built around [Red Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527447) from Adventures in the Forgotten Realms.
 
 <table>
 <tr>
