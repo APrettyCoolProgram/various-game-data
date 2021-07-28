@@ -1,5 +1,14 @@
 # **Red Dragon**
+<table>
+<tr>
+<td img src="RepositoryData/Asset/Image/Document/README/spacer.png" alt="blank-spacer" width="1000" height="1">
+
 ![statistics](Resources/red-dragon.png)
+
+</td>
+</tr>
+</table>
+
 ```
 Deck
 4 Red Dragon (AFR) 160
