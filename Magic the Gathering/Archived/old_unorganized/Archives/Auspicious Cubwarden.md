@@ -1,4 +1,5 @@
 # Auspicious Cubwarden
+```
 Deck
 4 Cubwarden (IKO) 7
 12 Forest (UST) 216
@@ -18,7 +19,6 @@ Deck
 2 Mirari's Wake (JUD) 139
 
 Sideboard
-
 ```
 
 
