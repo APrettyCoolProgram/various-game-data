@@ -1,4 +1,6 @@
 # **Red Dragon**
+> test
+
 <table>
 <tr>
 <td valign="top">
@@ -17,6 +19,9 @@ Deck
 4 Turret Ogre (WAR) 148
 2 Storm Fleet Pyromancer (XLN) 163
 2 Burning Sun's Avatar (XLN) 135
+
+Sideboard
+---
 ```
 
 </td>
@@ -59,7 +64,7 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-### 210713
+## 210713
 ```
 Deck
 3 Red Dragon (AFR) 160
@@ -86,7 +91,7 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-### 210712
+## 210712
 ```
 Deck
 2 Red Dragon (AFR) 160
