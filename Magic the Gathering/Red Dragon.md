@@ -1,4 +1,5 @@
-# Red Dragon
+# **Red Dragon**
+![statistics](Resources/red-dragon.png)
 ```
 Deck
 4 Red Dragon (AFR) 160
@@ -14,7 +15,8 @@ Deck
 2 Storm Fleet Pyromancer (XLN) 163
 2 Burning Sun's Avatar (XLN) 135
 ```
-### 210722
+# **ARCHIVE**
+## 210722
 ```
 Deck
 4 Red Dragon (AFR) 160
