@@ -4,6 +4,15 @@
 <table>
 <tr>
 <td valign="top">
+</td>
+
+<td img src="RepositoryData/Asset/Image/Document/README/spacer.png" alt="blank-spacer" width="1000" height="1">
+
+![statistics](Resources/red-dragon.png)
+
+</td>
+</tr>
+</table>
 
 ```
 Deck
@@ -23,19 +32,6 @@ Deck
 Sideboard
 ---
 ```
-
-</td>
-
-<td img src="RepositoryData/Asset/Image/Document/README/spacer.png" alt="blank-spacer" width="1000" height="1">
-
-![statistics](Resources/red-dragon.png)
-
-</td>
-
-
-</tr>
-</table>
-
 
 # **ARCHIVE**
 ## 210722
