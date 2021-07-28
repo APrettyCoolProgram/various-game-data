@@ -2,7 +2,7 @@
 ```
 Deck
 4 Red Dragon (AFR) 160
-24 Mountain (AFR) 277
+24 Mountain (UST) 215
 4 Forge Devil (JMP) 322
 4 Scampering Scorcher (M20) 158
 4 Plundering Barbarian (AFR) 158
