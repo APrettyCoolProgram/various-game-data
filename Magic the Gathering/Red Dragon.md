@@ -1,4 +1,4 @@
-# **Red Dragon**
+# Red Dragon
 > Basic dragon deck built around [Red Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527447) from Adventures in the Forgotten Realms.
 
 ![statistics](Resources/red-dragon.png)
@@ -22,8 +22,8 @@ Sideboard
 ---
 ```
 
-# **ARCHIVE**
-## 210722
+# Archives
+### 210722
 ```
 Deck
 4 Red Dragon (AFR) 160
@@ -49,7 +49,7 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-## 210713
+### 210713
 ```
 Deck
 3 Red Dragon (AFR) 160
@@ -76,7 +76,7 @@ Deck
 Sideboard
 7 Dragon's Approach (STX) 97
 ```
-## 210712
+### 210712
 ```
 Deck
 2 Red Dragon (AFR) 160
