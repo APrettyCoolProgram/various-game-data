@@ -1,14 +1,7 @@
 # **Red Dragon**
 > Basic dragon deck built around [Red Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527447) from Adventures in the Forgotten Realms.
 
-<table>
-<tr>
-
-<td img src="Resources/red-dragon.png" alt="blank-spacer" width="1000" height="1">
-
-</td>
-</tr>
-</table>
+![statistics](Resources/red-dragon.png)
 
 ```
 Deck
