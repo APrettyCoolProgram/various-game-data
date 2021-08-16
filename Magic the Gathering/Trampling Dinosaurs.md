@@ -6,10 +6,9 @@ Deck
 2 Quartzwood Crasher (IKO) 201
 10 Mountain (UST) 215
 1 Ghalta, Primal Hunger (JMP) 399
-1 Ghalta, Primal Hunger (RIX) 130
-1 Rampaging Brontodon (ANB) 102
+3 Rampaging Brontodon (ANB) 102
 1 Rampaging Brontodon (G18) GP5
-3 Shifting Ceratops (M20) 194
+2 Shifting Ceratops (M20) 194
 1 Thundering Spineback (JMP) 437
 2 Charging Tuskodon (RIX) 97
 2 Charging Monstrosaur (XLN) 138
