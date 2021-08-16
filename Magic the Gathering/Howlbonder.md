@@ -1,8 +1,8 @@
 # Howlbonder
 ```
 Deck
-10 Mountain (AFR) 277
-10 Swamp (AFR) 273
+10 Swamp (UST) 214
+10 Mountain (UST) 215
 3 Labyrinth Raptor (IKO) 193
 4 Sonorous Howlbonder (IKO) 230
 4 Murder (M20) 109
