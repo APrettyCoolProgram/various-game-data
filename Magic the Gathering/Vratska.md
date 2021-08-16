@@ -3,8 +3,8 @@
 Deck
 2 Vraska, Scheming Gorgon (RIX) 197
 1 Vraska, Golgari Queen (GRN) GR8
-7 Forest (AFR) 281
-10 Swamp (AFR) 273
+12 Swamp (UST) 214
+5 Forest (UST) 216
 4 Vraska, Swarm's Eminence (WAR) 236
 1 Vraska, Golgari Queen (GRN) 213
 20 Rat Colony (DAR) 101
