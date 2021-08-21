@@ -1,7 +1,5 @@
 # Red Dragon
 
-![statistics](Resources/red-dragon.png)
-
 ```
 Deck
 4 Red Dragon (AFR) 160
