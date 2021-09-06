@@ -178,3 +178,7 @@ America - Red, White, and Blue
 All special art
 Drizzt
 Nightmare
+
+
+Death Baron
+open the graves
