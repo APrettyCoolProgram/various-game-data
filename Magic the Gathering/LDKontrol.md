@@ -1,7 +1,7 @@
 # LDKontrol
 ```
 Deck
-9 Forest (UST) 216
+7 Forest (UST) 216
 4 Stone Rain (STA) 45
 4 Demolish (WAR) 123
 4 Rubble Reading (RNA) 110
@@ -12,7 +12,9 @@ Deck
 3 The Akroan War (THB) 124
 2 Goblin Ruinblaster (ZEN) 127
 4 Waking the Trolls (KHM) 234
-15 Mountain (UST) 215
+13 Mountain (UST) 215
+4 Cragcrown Pathway (ZNR) 261
+
 ```
 
 ## 210905
