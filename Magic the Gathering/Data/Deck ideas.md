@@ -46,6 +46,7 @@
 [ ] Fractals
 [ ] Landfall
 [ ] Prismatic
+[ ] Slivers
 
 ## Themes
 [ ] Lifegain
