@@ -4,7 +4,7 @@
 [ ] Cleric Class
 [ ] Paladin Class
 [ ] Wizard Class
-[ ] Warlock Class
+[X] Warlock Class
 [ ] Barbarian Class
 [ ] Druid Class
 [ ] Ranger Class
@@ -47,6 +47,7 @@
 [ ] Landfall
 [ ] Prismatic
 [ ] Slivers
+[ ] Planeswalkers
 
 ## Themes
 [ ] Lifegain
@@ -54,9 +55,6 @@
 ## Companions
 
 ## Planeswalkers
-
-
-
 
 ## Deck Names
 Army of the Dead
