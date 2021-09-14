@@ -1,4 +1,4 @@
-# Chandra
+# Chandra's Elementals
 ```
 Deck
 2 Chandra, Novice Pyromancer (M20) 128
@@ -22,4 +22,3 @@ Deck
 Sideboard
 
 ```
-
