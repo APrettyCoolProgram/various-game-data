@@ -50,7 +50,13 @@
 [ ] Planeswalkers
 
 ## Themes
+[ ] Day
+[ ] Night
+
+## Keywords
 [ ] Lifegain
+[X] Deathtouch
+[ ] Coven
 
 ## Companions
 
