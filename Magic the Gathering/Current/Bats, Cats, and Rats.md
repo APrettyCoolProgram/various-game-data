@@ -1,4 +1,29 @@
-# Bats, Cats, and Rats
+# Bats, Cats, & Rats
+```
+Deck
+10 Plains (UST) 212
+10 Swamp (UST) 214
+1 Blight Keeper (XLN) 92
+2 Ghastly Gloomhunter (ZNR) 103
+2 Ajani's Pridemate (WAR) 4
+4 Leonin Vanguard (M19) 22
+2 Leonin Warleader (M19) 23
+2 Typhoid Rats (ANB) 63
+2 Pack Rat (RTR) 73
+1 Murder (M20) 109
+4 Brightclimb Pathway (ZNR) 259
+4 Charmed Stray (WAR) 8
+2 Leonin Sanctifier (J21) 4
+2 Prowling Felidar (ZNR) 34
+2 Blighted Bat (JMP) 205
+2 Malakir Familiar (JMP) 253
+4 Burglar Rat (GRN) 64
+2 Plaguecrafter's Familiar (J21) 18
+2 Dirge Bat (IKO) 84
+
+```
+
+### 210930
 ```
 Deck
 4 Regal Bloodlord (M19) 222
