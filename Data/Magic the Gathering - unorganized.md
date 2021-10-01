@@ -95,7 +95,6 @@ Graveyard Marshal - B
 Void Beckoner - B
 Death Baron - B
 Vizier of the Scorpion - B
-Skeleton Archer - B
 Chainer's Edict - B
 Drana, Kalastria Bloodchief - B
 Witch of the Moors - B

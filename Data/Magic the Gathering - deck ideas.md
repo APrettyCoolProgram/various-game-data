@@ -48,14 +48,19 @@
 [ ] Prismatic
 [ ] Slivers
 [ ] Planeswalkers
+[ ] Angel
+[ ] Snake
+[ ] Cats (Regal Caracal)
 
 ## Themes
 [ ] Day
 [ ] Night
+[ ] Little Creatures (mouse, etc.)
 
 ## Keywords
 [ ] Lifegain
 [X] Deathtouch
+[ ] Ninjitsu
 [ ] Coven
 
 ## Companions
