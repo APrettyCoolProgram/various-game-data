@@ -73,3 +73,10 @@ Black Angels
 White Zombie
 Dungeons & Dragons
 Cats & Dogs
+
+
+Falkenrath
+
+Monk of the...
+Thorn Elemental
+Blex
