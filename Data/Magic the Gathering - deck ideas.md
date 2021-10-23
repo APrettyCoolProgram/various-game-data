@@ -80,3 +80,4 @@ Falkenrath
 Monk of the...
 Thorn Elemental
 Blex
+Lotus Cobra/Landfall
