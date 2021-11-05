@@ -1,4 +1,45 @@
-Deck
+v2
+4 Exultant Skymarcher (RIX) 7
+1 Adanto Vanguard (XLN) 1
+2 Paladin of Atonement (RIX) 16
+4 Martyr of Dusk (RIX) 14
+10 Swamp (UST) 214
+2 Forerunner of the Legion (RIX) 9
+1 Legion Conquistador (XLN) 20
+3 Legion Conquistador (RIX) 11
+1 Sanguine Glorifier (RIX) 20
+10 Plains (UST) 212
+4 Dusk Legion Zealot (RIX) 70
+1 Arterial Flow (RIX) 62
+4 Sadistic Skymarcher (RIX) 85
+2 Sanctum Seeker (XLN) 120
+1 Deathless Ancient (XLN) 100
+4 Cruel Celebrant (WAR) 188
+4 Call to the Feast (XLN) 219
+4 Vicious Conquistador (XLN) 128
+2 Heir of Falkenrath (J21) 55
+1 Paladin of the Bloodstained (XLN) 25
+4 Oathsworn Vampire (RIX) 80
+1 Blood Operative (GRN) 63
+1 Drana, Liberator of Malakir (JMP) 225
+4 Marauding Blight-Priest (ZNR) 112
+4 Vampire Champion (RIX) 198
+1 Blood Glutton (M21) 90
+1 Champion of Dusk (RIX) 64
+1 Bloodtithe Collector (MID) 90
+1 Markov Crusader (J21) 58
+1 Scion of the Swarm (ZNR) 121
+1 Tenured Inkcaster (STX) 88
+1 Vampire Sovereign (M19) 125
+1 Queen's Agent (XLN) 114
+4 Duskborne Skymarcher (XLN) 9
+4 Child of Night (GRN) 65
+1 Gifted Aetherborn (JMP) 239
+1 Stromkirk Bloodthief (MID) 123
+1 Vindictive Vampire (RNA) 90
+4 Brightclimb Pathway (ZNR) 259
+
+v1
 4 Exultant Skymarcher (RIX) 7
 3 Adanto Vanguard (XLN) 1
 4 Paladin of Atonement (RIX) 16
@@ -51,3 +92,5 @@ Deck
 4 Yahenni, Undying Partisan (KLR) 111
 4 Vindictive Vampire (RNA) 90
 4 The Haunt of Hightower (RNA) 273
+
+
