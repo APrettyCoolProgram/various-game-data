@@ -1,11 +1,11 @@
-# The Deck Name (Should Go Here)
+# Angrath
 
 <table>
   <tr>
     <td width="300">
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card" height="370" width="265">
     </td>
-    <td valign="top"><h3>Description.</h3> This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
+    <td valign="top"><h3>Description</h3> This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
   </tr>
 </table>
 
@@ -18,7 +18,7 @@
 ### Strategy
  This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
-## Current deck list goes here
+## Decklist
 
 ```#bash
 Deck
