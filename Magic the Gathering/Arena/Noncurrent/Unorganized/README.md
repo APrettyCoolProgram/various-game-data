@@ -1,7 +1,3 @@
-# Magic the Gathering/Arena/Archives/
+# Magic the Gathering/Arena/Noncurrent/Unorganized/
 
-Archived Magic Arena decks.
-
-[Events](https://github.com/APrettyCoolProgram/Decklists/tree/main/Magic%20the%20Gathering/Arena/Archives/Events)<br>
-Archived Magic Arena event decks.
-
+Unorganized Magic Arena decks.
