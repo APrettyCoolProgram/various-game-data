@@ -6,4 +6,4 @@ Decklists for Magic Arena.
 Archived Magic Arena decks.
 
 [Current](https://github.com/APrettyCoolProgram/Decklists/tree/main/Magic%20the%20Gathering/Arena/Current)<br>
-Current Magic paper decks.
+Current Magic Arena decks.
