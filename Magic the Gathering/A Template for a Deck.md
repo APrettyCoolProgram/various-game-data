@@ -11,14 +11,14 @@
 
 <table>
   <tr>
-    <td width="400" valign="top"><h3>Win Conditions</td>
-    <td width="400" rowspan=3>1</td>
+    <td width="400" valign="top"><h3>Win Conditions</h3>Try to do this, and that, and this. Once you've done those things, you can win! Try to do this, and that, and this. Once you've done those things, you can win!</td>
+    <td width="400" valign="top" rowspan=3><h3>STATISTICS</h3>Red/Blue<br>Creatures: 12<br>instants: 11</td>
   </tr>
   <tr>
-    <td width="400" valign="top"><h3>Weakness</td>
+    <td width="400" valign="top"><h3>Weakness</h3>Don't play against blue decks, because you'll lose. Try to do this, and that, and this. Once you've done those things, you can win!</td>
   </tr>
   <tr>
-    <td width="400" valign="top"><h3>Strength</td>
+    <td width="400" valign="top"><h3>Strength</h3>This deck will decimate other decks. Try to do this, and that, and this. Once you've done those things, you can win!</td>
   </tr>
 </table>
 
