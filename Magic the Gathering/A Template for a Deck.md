@@ -9,7 +9,8 @@
 ### Detail 3
 
 ## Current deck list goes here
-```
+
+```#bash
 Deck
 4 Angrath's Rampage (WAR) 185
 6 Mountain (SLD) 106
@@ -37,6 +38,12 @@ Deck
 3 Hurloon Minotaur (ANB) 74
 4 Blightstep Pathway (KHM) 252
 
+Sideboard
+4 Twilight Panther (RNA) 28
+1 Panicked Bystander (VOW) 28
+1 Shaile, Dean of Radiance (STX) 158
+1 Brutal Cathar (MID) 7
+
 ```
 
 <details>
@@ -44,8 +51,9 @@ Deck
 Decklist archives
 </summary>
 
-### 211101
-```
+## 211101
+
+```#bash
 Deck
 4 Angrath's Rampage (WAR) 185
 8 Mountain (SLD) 106
@@ -76,8 +84,9 @@ Sideboard
 
 ```
 
-### 201207
-```
+## 201207
+
+```#bash
 Deck
 2 Angrath, Captain of Chaos (WAR) 227
 8 Swamp (UST) 214
@@ -106,27 +115,6 @@ Deck
 1 Forgotten Cave (ONS) 317
 2 Dragonskull Summit (XLN) 252
 1 Thriving Moor (JMP) 37
-
-Sideboard
-
-```
-
-
-### 201206
-```
-Deck
-4 Nyxborn Marauder (THB) 109
-11 Mountain (UST) 215
-4 Rage-Scarred Berserker (THB) 113
-4 Hostile Minotaur (M19) 147
-12 Swamp (UST) 214
-4 Barging Sergeant (GRN) 92
-4 Murder (M20) 109
-4 Jaya's Greeting (WAR) 136
-4 Act of Treason (M20) 124
-4 Sorin's Thirst (WAR) 104
-4 Angrath, Captain of Chaos (WAR) 227
-1 Akoum Warrior (ZNR) 134
 
 Sideboard
 
