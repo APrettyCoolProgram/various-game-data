@@ -7,9 +7,6 @@
     </td>
     <td width="700" valign="top"><h3>Description</h3> This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="500" valign="top"><h3>Win Conditions</h3>Try to do this, and that, and this. Once you've done those things, you can win! Try to do this, and that, and this. Once you've done those things, you can win!</td>
     <td width="500" valign="top" rowspan=3><h3>STATISTICS</h3>Red/Blue<br>Creatures: 12<br>instants: 11</td>
