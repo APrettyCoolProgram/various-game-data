@@ -1,22 +1,22 @@
-# Angrath
+# Name of Deck
 
 <table>
   <tr>
     <td width="300">
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card" height="370" width="265">
     </td>
-    <td width="700" valign="top"><h3>Description</h3> This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
+    <td width="700" valign="top"><h3>Description</h3> This is the decription of the deck.</td>
   </tr>
 </table>
 
-### Win conditions
- This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
-
-### Weakness
- This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
-
 ### Strategy
- This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
+This is the strategy you should use when playing this deck.
+
+### Win conditions
+These are the win conditions of this deck.
+
+### Strengths and Weaknesses
+These are the strengths and weaknesses of this deck.
 
 ## Decklist
 
