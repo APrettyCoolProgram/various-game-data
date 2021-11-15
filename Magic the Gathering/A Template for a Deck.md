@@ -1,5 +1,13 @@
-# Name of Deck
+<!--
+NAME OF DECK
+This is the name of the deck.
+-->
+# Angrath
 
+<!--
+DECK CARD AND DESCRIPTION
+The deck card should be the card that is used for the deckbox.
+-->
 <table>
   <tr>
     <td width="300">
@@ -9,15 +17,31 @@
   </tr>
 </table>
 
-### Strategy
-This is the strategy you should use when playing this deck.
-
+<!--
+WIN CONDITIONS
+A quick overview of the win condition(s) of this deck.
+-->
 ### Win conditions
 These are the win conditions of this deck.
 
+<!--
+STRENGHTS AND WEAKNESSES
+A quick overview of what this deck is good at, and what it's bad at.
+-->
 ### Strengths and Weaknesses
 These are the strengths and weaknesses of this deck.
 
+<!--
+STRATEGY
+A quick overview of how this deck should be played.
+-->
+### Strategy
+This is the strategy you should use when playing this deck.
+
+<!--
+DECKLIST
+The current decklist.
+-->
 ## Decklist
 
 ```#bash
@@ -56,6 +80,10 @@ Sideboard
 
 ```
 
+<!--
+ARCHIVES
+Archived versions of this deck.
+-->
 <details>
 <summary>
 Decklist archives
@@ -132,4 +160,4 @@ Sideboard
 
 </details>
 
-<!-- b211115.1405 -->
+<!-- b211115.1426 -->
