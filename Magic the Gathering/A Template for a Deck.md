@@ -40,9 +40,11 @@ Deck
 ```
 
 <details>
+<h2>
 <summary>
 Decklist archives
 </summary>
+</h2>
 
 ### 211101
 ```
