@@ -9,6 +9,22 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>Win Conditions</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>Weakness</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>Stratecy</td>
+    <td>3</td>
+  </tr>
+</table>
+
+
 ### Win conditions
  This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
@@ -131,3 +147,5 @@ Sideboard
 ```
 
 </details>
+
+<!-- b211115.1405 -->
