@@ -2,12 +2,10 @@
 
 <table style="width:100%">
   <tr>
-    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>
+      <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
+    </td>
+    <td>This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
   </tr>
 </table>
 
