@@ -41,9 +41,7 @@ Deck
 
 <details>
 <summary>
-
-## Decklist archives
-
+<h2>Decklist archives<h2>
 </summary>
 
 ### 211101
