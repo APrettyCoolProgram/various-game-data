@@ -5,7 +5,7 @@
     <td>
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card" height="370" width="265">
     </td>
-    <td>This is the decription of the deck.</td>
+    <td>This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
   </tr>
 </table>
 
