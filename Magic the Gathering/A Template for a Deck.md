@@ -9,24 +9,13 @@
   </tr>
 </table>
 
-
-|         | Deck description     |
-|--------------|-----------|
-| ![Angrath](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card) | This is the decription of the deck. This is the decription of the deck.<br>This is the decription of the deck. This is the decription of the deck.<br>This is the decription of the deck. This is the decription of the deck.<br>This is the decription of the deck. This is the decription of the deck.<br>This is the decription of the deck. This is the decription of the deck. |
-
-![Angrath](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card)
-
-### Deck description goes here
-
-This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
-
-#### Win conditions
+### Win conditions
  This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
-#### Weakness
+### Weakness
  This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
-#### Strategy
+### Strategy
  This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
 ## Current deck list goes here
