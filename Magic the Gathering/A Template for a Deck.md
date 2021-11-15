@@ -1,6 +1,6 @@
 # The Deck Name (Should Go Here)
 
-<table width=100%>
+<table width=800>
   <tr>
     <td width:25%>
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
