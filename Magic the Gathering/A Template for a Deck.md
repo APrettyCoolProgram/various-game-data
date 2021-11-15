@@ -1,12 +1,17 @@
 # The Deck Name (Should Go Here)
 
-## Deck details go here
+### Deck description goes here
 
-### Detail 1
+This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
-### Detail 2
+#### Win conditions
+ This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
-### Detail 3
+#### Weakness
+ This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
+
+#### Strategy
+ This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.
 
 ## Current deck list goes here
 
