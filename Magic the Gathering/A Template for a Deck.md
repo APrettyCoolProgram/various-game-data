@@ -11,13 +11,14 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top"><h3>Win Conditions</td>
-    <td rowspan=3>1</td>
+    <td width="400" valign="top"><h3>Win Conditions</td>
+    <td width="400" rowspan=3>1</td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><h3>Weakness</td>
+    <td width="400" valign="top"><h3>Weakness</td>
   </tr>
   <tr>
+    <td width="400" valign="top"><h3>Strength</td>
   </tr>
 </table>
 
