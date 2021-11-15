@@ -1,4 +1,9 @@
-# Decklists
-Decklists for card games.
+# Magic the Gathering/Arena/
 
-[Magic: the Gathering](/Magic%20the%20Gathering)
+Decklists for Magic Arena
+
+[Archives]()<br>
+Archived Magic Arena decks.
+
+[Currents]()<br>
+Current Magic Arena decks.
