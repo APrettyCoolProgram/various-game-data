@@ -1,8 +1,8 @@
 # The Deck Name (Should Go Here)
 
-<table style="width:100%">
+<table width=100%>
   <tr>
-    <td style="width:25%">
+    <td width:25%>
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
     </td>
     <td>This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
