@@ -2,7 +2,7 @@
 
 <table style="width:100%">
   <tr>
-    <td>
+    <td style="width:25%">
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
     </td>
     <td>This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck. This is the decription of the deck.</td>
