@@ -1,2 +1,3 @@
-# Magic: the Gathering
+# Magic the Gathering/Arena/Current/
+
 Current Arena decks.

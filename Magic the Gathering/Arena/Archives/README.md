@@ -1,3 +1,3 @@
-# Magic the Gathering/Arena/Events/
+# Magic the Gathering/Arena/Archives/
 
-Events in Magic Arena
+Archived Magic Arena decks.
