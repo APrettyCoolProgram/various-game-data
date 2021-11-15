@@ -1,9 +1,3 @@
-# Magic the Gathering/
+# Magic the Gathering/Paper/
 
-Decklists for Magic: the Gathering.
-
-[Arena]()<br>
-Archived Magic Arena decks.
-
-[Paper]()<br>
-Current Magic paper decks.
+Decklists for paper Magic: the Gathering.
