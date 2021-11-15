@@ -13,7 +13,7 @@ The deck card should be the card that is used for the deckbox.
     <td width="300">
       <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card" height="370" width="265">
     </td>
-    <td width="700" valign="top"><h3>Description</h3> This is the decription of the deck.</td>
+    <td width="700" valign="top"><h3>Description</h3>This is the decription of the deck.</td>
   </tr>
 </table>
 
