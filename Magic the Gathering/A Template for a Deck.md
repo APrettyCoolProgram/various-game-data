@@ -12,15 +12,12 @@
 <table>
   <tr>
     <td width="50%" valign="top"><h3>Win Conditions</td>
-    <td>1</td>
+    <td rowspan=3>1</td>
   </tr>
   <tr>
     <td width="50%" valign="top"><h3>Weakness</td>
-    <td>2</td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><h3>Stratecy</td>
-    <td>3</td>
   </tr>
 </table>
 
