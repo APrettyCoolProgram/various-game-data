@@ -1,10 +1,8 @@
 # The Deck Name (Should Go Here)
 
-<table style="width:800px">
+<table style="width:100%">
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card">
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
