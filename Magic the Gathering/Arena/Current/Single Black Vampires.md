@@ -1,4 +1,4 @@
-# Single Vampires
+# Single Black Vampires
 ```
 Deck
 1 Arrogant Outlaw (MID) 84
