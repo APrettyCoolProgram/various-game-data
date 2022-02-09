@@ -6,7 +6,7 @@ Data for various games.
 Magic: the Gathering decks.
 
 [Valheim](Valheim)<br>
-Valheim information.
+[Steam](https://store.steampowered.com/app/892970/Valheim/)
 
 [Vampire Survivors](Vampire%20Survivors)<br>
-Builds for Vampire Survivors.
+[Steam](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
