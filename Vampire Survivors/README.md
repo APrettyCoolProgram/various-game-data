@@ -1,4 +1,5 @@
 # Vampire Survivors
+[Steam](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
 
 ## Power up purchase order
 > As of version 0.2.11
