@@ -2,7 +2,10 @@
 
 ## Mortaccio
 
-<h3 align="center">
+![](Mortaccio/Mortaccio.png)
+
+
+<h3>
 
   <img src="Mortaccio/Level-65_Survived-30m16s_Gold-4773.png" width="575">
   <br>
