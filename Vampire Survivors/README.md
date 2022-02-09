@@ -1,7 +1,7 @@
 # Vampire Survivors
 
 ## Power up purchase order
-> As of version 0.2.11
+> As of version 0.2.11 
 1. Revival
 2. Amount
 3. Growth
