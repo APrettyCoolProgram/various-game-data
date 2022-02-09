@@ -1,5 +1,0 @@
-{
-  "store_inventory_screen": {
-	"$ignore_inventory_button": "$is_sidebar_navigation_enabled"
-  }
-}

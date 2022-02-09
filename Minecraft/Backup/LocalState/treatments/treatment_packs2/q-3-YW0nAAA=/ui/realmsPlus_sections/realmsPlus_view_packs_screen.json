@@ -1,5 +1,0 @@
-{
-  "view_all_packs_screen": {
-	"$ignore_inventory_button": "$is_sidebar_navigation_enabled"
-  }
-}
