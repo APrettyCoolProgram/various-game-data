@@ -14,6 +14,7 @@
 [Source](https://www.reddit.com/r/VampireSurvivors/comments/snlyit/psa_the_order_you_buy_powerups_matter/)
 
 ## Evolutions
+> As of version 0.2.11 
 ![Evolutions](Information/Evolutions_v0-2-11.png)
 
 [Source](https://www.reddit.com/r/VampireSurvivors/comments/sm8ddm/updated_infographic_for_patch_0211/)
