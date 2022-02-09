@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "start_screen.playbig.test.description",
+    "name": "start_screen.playbig.test.name",
+    "uuid": "45889b11-460e-424c-9058-7f14e99421c1",
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "start_screen.playbig.test.description",
+      "type": "resources",
+      "uuid": "758b2d08-7c23-4fbe-97f3-630e7e288941",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

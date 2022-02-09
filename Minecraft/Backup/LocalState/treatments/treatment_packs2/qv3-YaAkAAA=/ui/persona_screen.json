@@ -1,0 +1,8 @@
+{
+  "persona_tabs": {
+	"ignored": "$is_sidebar_navigation_enabled"
+  },
+  "persona_screen": {
+	"$ignore_inventory_button": "$is_sidebar_navigation_enabled"
+  }
+}

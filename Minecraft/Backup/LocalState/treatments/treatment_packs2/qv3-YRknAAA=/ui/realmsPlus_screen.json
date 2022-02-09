@@ -1,0 +1,9 @@
+{
+  "realms_plus_pdp_screen": {
+	"$ignore_inventory_button": "$is_sidebar_navigation_enabled"
+  },
+  
+  "realms_plus_upgrade_notice_screen": {
+	"$ignore_inventory_button": "$is_sidebar_navigation_enabled"
+  }
+}

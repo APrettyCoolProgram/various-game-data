@@ -1,0 +1,103 @@
+[
+   {
+      "maxClientVersion" : "1.18.8",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-millionaire2",
+      "type" : "resources",
+      "uuid" : "2b6fbb56-3ac0-4a08-b3b0-77375b1219dd",
+      "version" : "1.0.4"
+   },
+   {
+      "endDate" : "2018-10-15T15:00:00Z",
+      "maxClientVersion" : "15535.65535.65535",
+      "minClientVersion" : "1.6.0",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-playbig",
+      "startDate" : "2018-09-05T15:00:00Z",
+      "type" : "resources",
+      "uuid" : "45889b11-460e-424c-9058-7f14e99421c1",
+      "version" : "1.0.0"
+   },
+   {
+      "maxClientVersion" : "1.18.999",
+      "minClientVersion" : "1.16.0",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-hero-row-timer-2",
+      "type" : "resources",
+      "uuid" : "59cac2b4-2291-469b-be69-5dc200ffd51b",
+      "version" : "1.0.3"
+   },
+   {
+      "maxClientVersion" : "1.18.999",
+      "minClientVersion" : "1.17.0",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-search-in-header",
+      "type" : "resources",
+      "uuid" : "601d2842-d2e3-4352-b121-23fb135046a0",
+      "version" : "1.0.5"
+   },
+   {
+      "maxClientVersion" : "199.999.999",
+      "minClientVersion" : "1.10.0",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-is-beta",
+      "type" : "resources",
+      "uuid" : "6b22ea2b-bac1-4c07-95a1-bc7bc5818b1c",
+      "version" : "1.0.2"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mccontr-basicsidebar",
+      "type" : "resources",
+      "uuid" : "841f4800-9f14-4789-bf46-4730bec4f874",
+      "version" : "1.0.1"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mctreat-sidebarwithfree",
+      "type" : "resources",
+      "uuid" : "841f4800-9f14-4789-bf46-4730bec4f875",
+      "version" : "1.0.1"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mctreat-sidebarwithoutfree",
+      "type" : "resources",
+      "uuid" : "841f4800-9f14-4789-bf46-4730bec4f876",
+      "version" : "1.0.1"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-lunarredux",
+      "type" : "resources",
+      "uuid" : "e12b1242-5840-46d9-bb6c-a7c4b386d525",
+      "version" : "1.0.2"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-sidebarenablev2",
+      "type" : "resources",
+      "uuid" : "ec19dc80-9cb3-11eb-a8b3-0242ac130011",
+      "version" : "1.0.4"
+   },
+   {
+      "maxClientVersion" : "1.18.9999",
+      "minClientVersion" : "1.17.19",
+      "priority" : 1000,
+      "requiredTreatmentTag" : "mc-rp-diamondthief",
+      "type" : "resources",
+      "uuid" : "fecd742e-be7c-4efc-b18a-ea6933f659b1",
+      "version" : "1.0.1"
+   }
+]

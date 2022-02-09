@@ -1,0 +1,65 @@
+{
+   "content" : [
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "textures"
+      },
+      {
+         "path" : "textures/ui"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/blueheart.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/bookmark.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons"
+      },
+      {
+         "path" : "ui/realmsPlus_screen.json"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/redheart.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/promotag.png"
+      },
+      {
+         "path" : "ui/profile_screen.json"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/rounddonut.png"
+      },
+      {
+         "path" : "ui/store_inventory_screen.json"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/squaredonut.png"
+      },
+      {
+         "path" : "textures/ui/sidebar_icons/star.png"
+      },
+      {
+         "path" : "ui"
+      },
+      {
+         "path" : "ui/persona_screen.json"
+      },
+      {
+         "path" : "ui/realmsPlus_sections/realmsPlus_view_packs_screen.json"
+      },
+      {
+         "path" : "ui/sidebar_navigation.json"
+      },
+      {
+         "path" : "ui/store_data_driven_screen.json"
+      },
+      {
+         "path" : "manifest.json"
+      }
+   ],
+   "version" : 1
+}

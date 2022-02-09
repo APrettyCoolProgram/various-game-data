@@ -1,0 +1,136 @@
+{
+  "namespace": "common_store",
+  
+  "hero_carousel_panel": {
+    "type": "stack_panel",
+    "orientation": "vertical",
+    "size": [ "100%", "100%c + 5px" ],
+    "$store_factory_collection_name": "carousel_collection",
+    "property_bag": {
+      "timer_duration": 600
+    },
+    "bindings": [
+      {
+        "binding_type": "collection",
+        "binding_collection_name": "$store_factory_collection_name",
+        "binding_name": "#timer_duration"
+      },
+      {
+        "binding_type": "collection",
+        "binding_collection_name": "$store_factory_collection_name",
+        "binding_name": "#is_hero_carousel_visible",
+        "binding_name_override": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "top_panel": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "100% - 50px", "100%cm - 10px" ],
+          "controls": [
+            {
+              "left_button_panel": {
+                "type": "panel",
+                "size": [ 25, "100%sm" ],
+                "controls": [
+                  {
+                    "left_button@common_buttons.light_content_button": {
+                      "size": [ 15, 20 ],
+                      "$pressed_button_name": "button.navigate_carousel_left",
+                      "$button_content": "play.left_arrow_icon",
+                      "bindings": [
+                        {
+                          "binding_type": "$store_factory_collection_details",
+                          "binding_collection_name": "$store_factory_collection_name",
+                          "binding_collection_prefix": "$store_factory_collection_prefix"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "main_panel_factory@common_store.carousel_factory": {
+                "$hero_row_size": [ "100%", "28.125%x + 24.5px" ],
+                "$whole_panel_focus_override_right": "carousel_right_button"
+              }
+            },
+            {
+              "right_button_panel": {
+                "type": "panel",
+                "size": [ 25, "100%sm" ],
+                "controls": [
+                  {
+                    "right_button@common_buttons.light_content_button": {
+                      "size": [ 15, 20 ],
+                      "$pressed_button_name": "button.navigate_carousel_right",
+                      "$button_content": "play.right_arrow_icon",
+                      "$focus_id": "carousel_right_button",
+                      "bindings": [
+                        {
+                          "binding_type": "$store_factory_collection_details",
+                          "binding_collection_name": "$store_factory_collection_name",
+                          "binding_collection_prefix": "$store_factory_collection_prefix"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "bottom_panel": {
+          "type": "panel",
+          "size": [ "100%", 20 ],
+          "controls": [
+            {
+              "grey_bar_factory_panel": {
+                "type": "stack_panel",
+                "orientation": "horizontal",
+                "size": [ "100%c", 5 ],
+                "offset": [ 5, 0 ],
+                "layer": 2,
+                "factory": {
+                  "name": "grey_bar_factory",
+                  "control_ids": {
+                    "hero_row": "@common_store.grey_bar_panel"
+                  },
+                  "factory_variables": [
+                    "$store_factory_collection_name"
+                  ]
+                },
+                "collection_name": "carousel_bar_collection",
+                "bindings": [
+                  {
+                    "binding_name": "#grey_bar_section_content",
+                    "binding_name_override": "#collection_length",
+                    "binding_type": "collection",
+                    "binding_collection_name": "$store_factory_collection_name"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "divider_panel": {
+          "type": "panel",
+          "size": [ "100%", "100%c" ],
+          "controls": [
+            {
+              "divider@common.horizontal_divider": {
+                "size": [ "100%- 10px", 1 ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

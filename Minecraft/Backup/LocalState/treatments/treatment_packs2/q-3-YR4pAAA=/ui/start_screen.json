@@ -1,0 +1,7 @@
+{
+  "namespace": "start",
+
+  "play_button": {
+    "size": [ "150%", "150%" ]
+  }
+}

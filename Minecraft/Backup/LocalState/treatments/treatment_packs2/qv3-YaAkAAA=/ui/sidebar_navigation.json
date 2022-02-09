@@ -1,0 +1,10 @@
+{
+  "sidebar_views": {
+	"ignored": "(not $is_sidebar_navigation_enabled)",
+	"$ignore_inventory_button": true
+  },
+
+  "sidebar_empty_panel": {
+	"ignored": "(not $is_sidebar_navigation_enabled)"
+  }
+}
