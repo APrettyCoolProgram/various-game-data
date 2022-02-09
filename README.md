@@ -1,6 +1,9 @@
-# Decklists for cardgames
+# Various-Game-Data
 
-A collection of cardgame decklists.
+Data for various games.
 
-[Magic: the Gathering](https://github.com/APrettyCoolProgram/Decklists/tree/main/Magic%20the%20Gathering)<br>
+[Magic: the Gathering](Magic%20the%20Gathering)<br>
 Magic: the Gathering decks.
+
+[Vampire Survivors](Vampire%20Survivors)<br>
+Builds for Vampire Survivors
