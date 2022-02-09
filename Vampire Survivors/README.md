@@ -10,10 +10,11 @@
 6. Might/Recovery/Greed
 7. Area/Speed/Duration/MoveSpeed/Magnet
 8. Max Health
+
 [Source](https://www.reddit.com/r/VampireSurvivors/comments/snlyit/psa_the_order_you_buy_powerups_matter/)
 
 ## Evolutions
-![Evolutions](/Information/Evolutions.png)
+![Evolutions](Information/Evolutions.png)
 
 
 https://www.reddit.com/r/VampireSurvivors/comments/sm8ddm/updated_infographic_for_patch_0211/
