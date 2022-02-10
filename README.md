@@ -13,6 +13,9 @@ Data for various games.
     <td>
         <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
     </td>
+    <td>
+        <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
+    </td>
   </tr>
   <tr>
   </tr>
