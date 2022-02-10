@@ -5,7 +5,7 @@ Data for various games.
  <table>
   <tr>
   <td>
-  <img src="Back4Blood/Resource/Back4Blood-logo.png" width="200">
+  <a href="/Back4Blood/"><img src="Back4Blood/Resource/Back4Blood-logo.png" width="200">
   </td>
     <td>
   <img src="Magic%20the%20Gathering/Resource/Magic-the-Gathering-logo.png" width="200">
