@@ -1,7 +1,3 @@
-# Various-Game-Data
-
-Data for various games.
-
  <table>
   <tr>
     <td>
