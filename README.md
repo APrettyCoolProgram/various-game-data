@@ -7,7 +7,7 @@
         <a href="/Magic%20the%20Gathering/"><img src="Magic%20the%20Gathering/Resource/Magic-the-Gathering-logo.png" width="215"></a>
     </td>
     <td>
-        <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
+        <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-grid.png" width="200"></a>
     </td>
     <td>
         <a href="/Valheim/"><img src="Valheim/Resource/Valheim-logo.jpg" width="200"></a>
