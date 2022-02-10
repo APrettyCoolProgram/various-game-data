@@ -14,18 +14,14 @@ Data for various games.
         <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
     </td>
     <td>
-        <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
+        <a href="/Valheim/"><img src="Valheim/Resource/Valehiem-logo.png" width="200"></a>
     </td>
   </tr>
+      <td>
+        <a href="/Vampire%20Survivors/"><img src="Vampire%20Survivors/Resource/Vampire%20Survivors-logo.png" width="200">
+    </td>
   <tr>
   </tr>
   <tr>
   </tr>
 </table> 
-
-
-[Minecraft](Minecraft)
-
-[Valheim](Valheim)<br>
-
-[Vampire Survivors](Vampire%20Survivors)<br>
