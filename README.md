@@ -8,7 +8,7 @@ Data for various games.
   <a href="/Back4Blood/"><img src="Back4Blood/Resource/Back4Blood-logo.png" width="200">
   </td>
     <td>
-  <img src="Magic%20the%20Gathering/Resource/Magic-the-Gathering-logo.png" width="200">
+  <a href="/Magic%20the%20Gathering/"><img src="Magic%20the%20Gathering/Resource/Magic-the-Gathering-logo.png" width="200"></a>
   </td>
   </tr>
   <tr>
@@ -17,9 +17,6 @@ Data for various games.
   </tr>
 </table> 
 
-[Back4Blood](Back4Blood)<br>
-
-[Magic Arena](Magic%20Arena)<br>
 
 [Minecraft](Minecraft)
 
