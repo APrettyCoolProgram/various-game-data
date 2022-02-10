@@ -1,7 +1,7 @@
  <table>
   <tr>
     <td>
-        <a href="/Back4Blood/"><img src="Back4Blood/Resource/Back4Blood-logo.png" width="200">
+        <a href="/Back4Blood/"><img src="Back4Blood/Resource/Back-4-Blood-grid.jpeg" width="200">
     </td>
     <td>
         <a href="/Magic%20the%20Gathering/"><img src="Magic%20the%20Gathering/Resource/Magic-the-Gathering-logo.png" width="215"></a>
