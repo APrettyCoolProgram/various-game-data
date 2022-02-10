@@ -1,6 +1,6 @@
 # Vampire Survivors
 
-![Vampire Survivors](Resource/Vampire-Survivors-hero.png)
+![Vampire Survivors](Resource/Vampire-Survivors-hero.jpg)
 
 ## Power up purchase order
 > As of version 0.2.11

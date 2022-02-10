@@ -14,7 +14,7 @@
     </td>
   </tr>
       <td>
-        <a href="/Vampire%20Survivors/"><img src="Vampire%20Survivors/Resource/Vampire-Survivors-logo.png" width="200">
+        <a href="/Vampire%20Survivors/"><img src="Vampire%20Survivors/Resource/Vampire-Survivors-grid.png" width="200">
     </td>
   <tr>
   </tr>
