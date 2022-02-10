@@ -14,7 +14,7 @@ Data for various games.
         <a href="/Minecraft/"><img src="Minecraft/Resource/Minecraft-logo.png" width="200"></a>
     </td>
     <td>
-        <a href="/Valheim/"><img src="Valheim/Resource/Valehiem-logo.jpg" width="200"></a>
+        <a href="/Valheim/"><img src="Valheim/Resource/Valheim-logo.jpg" width="200"></a>
     </td>
   </tr>
       <td>
