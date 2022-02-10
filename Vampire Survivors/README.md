@@ -20,3 +20,7 @@
 ![Evolutions](Information/Evolutions_v0-2-11.png)
 
 [Source](https://www.reddit.com/r/VampireSurvivors/comments/sm8ddm/updated_infographic_for_patch_0211/)
+
+***
+
+[Game Backup](Backup/)
