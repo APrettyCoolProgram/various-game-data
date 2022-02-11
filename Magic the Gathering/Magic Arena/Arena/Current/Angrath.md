@@ -1,6 +1,6 @@
 # Angrath
 
-<table>
+<table style="background-color:black;">
     <tr>
         <td>
             <img src="../../Resource/Angrath.png" width="1000">
