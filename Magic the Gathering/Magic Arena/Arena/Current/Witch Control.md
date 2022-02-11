@@ -1,12 +1,12 @@
-# Golgari Deathtouch
+# Witch Control
 
 ```
 Deck
 1 Witch's Cauldron (M21) 129
-10 Swamp (VOW) 400
+8 Mountain (UST) 215
 4 Witch's Oven (ELD) 237
 4 Claim the Firstborn (ELD) 118
-10 Mountain (VOW) 401
+12 Swamp (UST) 214
 4 Act of Treason (M19) 127
 1 Bloody Betrayal (VOW) 147
 1 Hijack (XLN) 148
