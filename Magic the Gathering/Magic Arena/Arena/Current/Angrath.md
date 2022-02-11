@@ -1,6 +1,6 @@
 # Angrath
 
-<img src="../../Resource/Angrath.png" width="800">
+<img src="../../Resource/Angrath.png" width="1000">
 
 ```
 Deck
