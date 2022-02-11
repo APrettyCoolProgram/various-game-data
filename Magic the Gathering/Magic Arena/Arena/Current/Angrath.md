@@ -29,7 +29,6 @@ Deck
 2 Dragonskull Summit (XLN) 252
 3 Hurloon Minotaur (ANB) 74
 4 Blightstep Pathway (KHM) 252
-
 ```
 
 ### 211101
@@ -61,7 +60,6 @@ Deck
 3 Hurloon Minotaur (ANB) 74
 
 Sideboard
-
 ```
 
 ### 201207
@@ -96,9 +94,7 @@ Deck
 1 Thriving Moor (JMP) 37
 
 Sideboard
-
 ```
-
 
 ### 201206
 ```
@@ -117,6 +113,4 @@ Deck
 1 Akoum Warrior (ZNR) 134
 
 Sideboard
-
 ```
-
