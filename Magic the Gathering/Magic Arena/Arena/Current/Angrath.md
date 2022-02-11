@@ -1,4 +1,7 @@
 # Angrath
+
+<img src="../../Resource/Angrath.png" width="800">
+
 ```
 Deck
 4 Angrath's Rampage (WAR) 185

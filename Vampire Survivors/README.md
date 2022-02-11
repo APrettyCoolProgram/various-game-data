@@ -2,6 +2,8 @@
 
 ![Vampire Survivors](Resource/Vampire-Survivors-hero.jpg)
 
+[Builds](Builds)
+
 ## Power up purchase order
 > As of version 0.2.11
 1. Revival
