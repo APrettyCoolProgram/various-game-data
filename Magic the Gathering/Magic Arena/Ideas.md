@@ -160,123 +160,122 @@
 
 ### WHITE
 
-Valkyrie Harbringer - W - Angel deck
-Griffin Aerie - W
-Settle the Wreckage - W
-Forced Worship - W
-Smothering Tithe - W
-Reverent Hoplite - W
-Felidar Retreat - W
-Ondu Inversion - W
-Kenrith - W
-Swallow Whole - W
-Shatter the Sky - W
-Youthful Valkarie - W
+* Valkyrie Harbringer - W - Angel deck
+* Griffin Aerie - W
+* Settle the Wreckage - W
+* Forced Worship - W
+* Smothering Tithe - W
+* Reverent Hoplite - W
+* Felidar Retreat - W
+* Ondu Inversion - W
+* Kenrith - W
+* Swallow Whole - W
+* Shatter the Sky - W
+* Youthful Valkarie - W
 
 ### BLUE
 
-Glasspool Mimic - U
-Commence the Endgame - U
-Dungeon Geists - U
-Serpent of Yawning Depths - U
+* Glasspool Mimic - U
+* Commence the Endgame - U
+* Dungeon Geists - U
+* Serpent of Yawning Depths - U
 
 ### BLACK
 
-Josu Vess - B
-Grim Captain's Call - B
-Plaguecrafter - B
-Whisper Squad - B
-Graveyard Marshal - B
-Void Beckoner - B
-Death Baron - B
-Vizier of the Scorpion - B
-Chainer's Edict - B
-Drana, Kalastria Bloodchief - B
-Witch of the Moors - B
-Liliana's Elite - B
-Stab Wound - B
-Pestilent Haze - B
-Dreadhorde Arcanist - B
-Equsite Blood - B
-Malakir Cullblade - B
-Typhoid Rats - B
+* Josu Vess - B
+* Grim Captain's Call - B
+* Plaguecrafter - B
+* Whisper Squad - B
+* Graveyard Marshal - B
+* Void Beckoner - B
+* Death Baron - B
+* Vizier of the Scorpion - B
+* Chainer's Edict - B
+* Drana, Kalastria Bloodchief - B
+* Witch of the Moors - B
+* Liliana's Elite - B
+* Stab Wound - B
+* Pestilent Haze - B
+* Dreadhorde Arcanist - B
+* Equsite Blood - B
+* Malakir Cullblade - B
+* Typhoid Rats - B
 
 ### RED
 
-Traitorous Greed - R
-Tentative Connection - R
-Dreadhoarde Arcanist - R
-Erratic Cyclops - R
-Star of Extinction - R
-Dragonkin Berserker - R
-Magic Missle
+* Traitorous Greed - R
+* Tentative Connection - R
+* Dreadhoarde Arcanist - R
+* Erratic Cyclops - R
+* Star of Extinction - R
+* Dragonkin Berserker - R
+* Magic Missle
 
 ### GREEN
 
-Dryad Greenseeker - G
-Craterhoof Behemoth - G
-Scavanging ooze - G
-Migration Path - G
-The Great Henge - G
-Scute Swarm - G
-Season of Growth - G
-Hydra's Growth - G
+* Dryad Greenseeker - G
+* Craterhoof Behemoth - G
+* Scavanging ooze - G
+* Migration Path - G
+* The Great Henge - G
+* Scute Swarm - G
+* Season of Growth - G
+* Hydra's Growth - G
 
 ### WHITE GREEN
 
-Pledge of Unity - WG
-March of the Multitudes - WG
+* Pledge of Unity - WG
+* March of the Multitudes - WG
 
 ### BLACK GREEN
 
-Casualties of War - BG
-Hapatra - BG
-Polukranos  - BG
-Morrette - BG
+* Casualties of War - BG
+* Hapatra - BG
+* Polukranos  - BG
+* Morrette - BG
 
 ### WHITE BLACK
 
-Kaya's Wrath - WB
-Regal Bloodlord - WB
-Athreos - WB
+* Kaya's Wrath - WB
+* Regal Bloodlord - WB
+* Athreos - WB
 
 ### GREEN BLUE
 
-Maraleaf pixie - GU
+* Maraleaf pixie - GU
 
 ### BLACK RED
 
-Kroxa - BR
+* Kroxa - BR
 
 ### WHITE RED
 
-Swathcutter Giant - RW
-Swiftblade Vindicator -RW
+* Swathcutter Giant - RW
+* Swiftblade Vindicator -RW
 
 ### GREEN BLUE RED
 
-Song of Creation - GUR
+* Song of Creation - GUR
 
 ### LAND
 
-Zhalfirin Void - L
+* Zhalfirin Void - L
 
 ## THEME
 
-*Ultimatum
-Mutating <animal>
-Animals
-Legendary
-Classic monsters
-Control other creatures
-Graveyeard/Survail
-Land Destruction
-Minsc (and Boo)
-From outside the game
-America - Red, White, and Blue
-All special art
-Drizzt
-Nightmare
-
-Death Baron
-open the graves
+* *Ultimatum
+* Mutating <animal>
+* Animals
+* Legendary
+* Classic monsters
+* Control other creatures
+* Graveyeard/Survail
+* Land Destruction
+* Minsc (and Boo)
+* From outside the game
+* America - Red, White, and Blue
+* All special art
+* Drizzt
+* Nightmare
+* Death Baron
+* open the graves
