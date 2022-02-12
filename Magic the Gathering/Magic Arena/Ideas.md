@@ -2,71 +2,71 @@
 
 ## Classes
 
-[ ] Cleric Class
-[ ] Paladin Class
-[ ] Wizard Class
-[X] Warlock Class
-[ ] Barbarian Class
-[ ] Druid Class
-[ ] Ranger Class
-[ ] Monk Class
-[X] Rogue Class
-[ ] Sorcerer Class
-[ ] Bard Class
-[ ] Fighter Class
+* [ ] Cleric Class
+* [ ] Paladin Class
+* [ ] Wizard Class
+* [X] Warlock Class
+* [ ] Barbarian Class
+* [ ] Druid Class
+* [ ] Ranger Class
+* [ ] Monk Class
+* [X] Rogue Class
+* [ ] Sorcerer Class
+* [ ] Bard Class
+* [ ] Fighter Class
 
 ## Tribes
 
-[ ] Werewolves
-[ ] Wolves
-[ ] Dreadhorde
-[ ] Vampires
-[ ] Zombies
-[ ] Assassins
-[ ] Vehicles
-[ ] Clerics
-[ ] You Come to a River
-[ ] Dice
-[ ] Dungeons
-[ ] Control
-[ ] Goblins
-[ ] Lich
-[ ] Lessons
-[ ] Party
-[ ] Gods
-[ ] Gates
-[ ] Shrines
-[ ] Artifacts
-[ ] Golems
-[ ] Foxes
-[ ] Eleves
-[ ] Elementals
-[ ] Devil
-[ ] Cats
-[ ] Dinosaurs
-[ ] Illusions
-[ ] Fractals
-[ ] Landfall
-[ ] Prismatic
-[ ] Slivers
-[ ] Planeswalkers
-[ ] Angel
-[ ] Snake
-[ ] Cats (Regal Caracal)
-[ ] Falkenrath
+* [ ] Werewolves
+* [ ] Wolves
+* [ ] Dreadhorde
+* [ ] Vampires
+* [ ] Zombies
+* [ ] Assassins
+* [ ] Vehicles
+* [ ] Clerics
+* [ ] You Come to a River
+* [ ] Dice
+* [ ] Dungeons
+* [ ] Control
+* [ ] Goblins
+* [ ] Lich
+* [ ] Lessons
+* [ ] Party
+* [ ] Gods
+* [ ] Gates
+* [ ] Shrines
+* [ ] Artifacts
+* [ ] Golems
+* [ ] Foxes
+* [ ] Eleves
+* [ ] Elementals
+* [ ] Devil
+* [ ] Cats
+* [ ] Dinosaurs
+* [ ] Illusions
+* [ ] Fractals
+* [ ] Landfall
+* [ ] Prismatic
+* [ ] Slivers
+* [ ] Planeswalkers
+* [ ] Angel
+* [ ] Snake
+* [ ] Cats (Regal Caracal)
+* [ ] Falkenrath
 
 ## Themes
 
-[ ] Day
-[ ] Night
-[ ] Little Creatures (mouse, etc.)
+* [ ] Day
+* [ ] Night
+* [ ] Little Creatures (mouse, etc.)
 
 ## Keywords
 
-[ ] Lifegain
-[X] Deathtouch
-[ ] Ninjitsu
-[ ] Coven
+* [ ] Lifegain
+* [X] Deathtouch
+* [ ] Ninjitsu
+* [ ] Coven
 
 ## Companions
 
@@ -74,90 +74,89 @@
 
 ## Combos
 
-Lotus Cobra/Landfall
-Festering Newt - B + Bogbrew Witch - B + Bubbling Cauldron - B
-Zendikar's Roil - G + Fertilid - G
-Black Market - B + Heartfire - R
-Stonework Packbeast - C + Veteran Adventurer - G
+* Lotus Cobra/Landfall
+* Festering Newt - B + Bogbrew Witch - B + Bubbling Cauldron - B
+* Zendikar's Roil - G + Fertilid - G
+* Black Market - B + Heartfire - R
+* Stonework Packbeast - C + Veteran Adventurer - G
 
 ## Deck Names
 
-Army of the Dead
-Black Angels
-White Zombie
-Dungeons & Dragons
-Cats & Dogs
-Crimson and Clover
+* Army of the Dead
+* Black Angels
+* White Zombie
+* Dungeons & Dragons
+* Cats & Dogs
+* Crimson and Clover
 
 ## Cards
 
-Monk of the...
-Thorn Elemental
-Blex
-Minion of the Mighty
-Cosmos Elixer
-Feldar Retreat
-Valkyrie Harbinger
-Powerstone Shard
-Prismatic Bridge
-Hazardous Conditions
-Scute Swarm
-Tetzimoc, Primal Death
-Hornet Queen
-Phylath, World Sculptor
-Faceless Haven
-Field of the Dead
-Karn's Bastion
-Reliquary Tower
-Ebondeath
-Chromatic Lantern (for Prismatic)
-Loth
-Phyrexian Reclaimation
-Bloodsky Massacre
-Massacre Girl
-Two headed zombie
-The Ozolith
-March of the Multitiudes
-Clackbridge Troll
-Tresspassers curse
-Dooomskar
-
+* Monk of the...
+* Thorn Elemental
+* Blex
+* Minion of the Mighty
+* Cosmos Elixer
+* Feldar Retreat
+* Valkyrie Harbinger
+* Powerstone Shard
+* Prismatic Bridge
+* Hazardous Conditions
+* Scute Swarm
+* Tetzimoc, Primal Death
+* Hornet Queen
+* Phylath, World Sculptor
+* Faceless Haven
+* Field of the Dead
+* Karn's Bastion
+* Reliquary Tower
+* Ebondeath
+* Chromatic Lantern (for Prismatic)
+* Loth
+* Phyrexian Reclaimation
+* Bloodsky Massacre
+* Massacre Girl
+* Two headed zombie
+* The Ozolith
+* March of the Multitiudes
+* Clackbridge Troll
+* Tresspassers curse
+* Dooomskar
 
 ## Prismatic
 
-Chromatic Orrery
-Chamber Sentry
+* Chromatic Orrery
+* Chamber Sentry
 
 ## Creature Control
 
-Sleeper Dart
+* Sleeper Dart
 
 ## Counters
 
-The Ozolith
+* The Ozolith
 
 ## Land draw/Creature Control
 
-Thaumatic Compass
+* Thaumatic Compass
 
 ## Mana Generation
 
-Replicating Ring
+* Replicating Ring
 
 ## Tokens/Copies
 
-Helm of the Host
+* Helm of the Host
 
 ## The Undead
 
-Death Baron
-Death-Priest of Myrkul
+* Death Baron
+* Death-Priest of Myrkul
 
 ### COLORLESS
 
-Chamber Sentry - C
-Skyclave Relic - C
-Deck of Many Things
+* Chamber Sentry - C
+* Skyclave Relic - C
+* Deck of Many Things
 
 ### WHITE
 
