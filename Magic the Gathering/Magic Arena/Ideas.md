@@ -6,7 +6,7 @@
 * [ ] Paladin Class
 * [ ] Wizard Class
 * [X] Warlock Class
-* [ ] Barbarian Class
+* [X] Barbarian Class
 * [ ] Druid Class
 * [ ] Ranger Class
 * [ ] Monk Class
