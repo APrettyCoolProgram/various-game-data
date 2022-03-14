@@ -4,4 +4,4 @@
 
 ## This .gitignore is best used in a resource repository.
 
-*.DS_Store
+#*.DS_Store
