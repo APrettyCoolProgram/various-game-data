@@ -1,0 +1,7 @@
+## .gitignore: A generic .gitignore file for GitHub repositories
+## Resource repository v1.1.0.0-b220314
+## https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc
+
+## This .gitignore is best used in a resource repository.
+
+*.DS_Store
