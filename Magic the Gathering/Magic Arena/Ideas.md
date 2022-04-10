@@ -279,3 +279,9 @@
 * Nightmare
 * Death Baron
 * open the graves
+
+
+OTHER
+
+ * Bond of Discipline
+ * Abiding Grace
