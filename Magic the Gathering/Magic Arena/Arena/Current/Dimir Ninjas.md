@@ -13,8 +13,8 @@ Deck
 1 Inkrise Infiltrator (NEO) 100
 2 Ninja of the Deep Hours (J21) 39
 4 Clearwater Pathway (ZNR) 260
-10 Island (SNC) 265
-10 Swamp (SNC) 267
+10 Island (UST) 213
+10 Swamp (UST) 214
 2 Moonblade Shinobi (MH1) 59
 2 Azra Smokeshaper (MH1) 79
 1 Kami of Restless Shadows (NEO) 104
