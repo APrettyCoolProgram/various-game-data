@@ -1,7 +1,15 @@
 # Azorious Birbs
 
-```
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Azorious-Birbs-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
 
+# 220710
+```
 Deck
 10 Plains (UST) 212
 4 Healer's Hawk (GRN) 14
@@ -22,12 +30,9 @@ Deck
 1 A-Alrund's Epiphany (KHM) 41
 2 Heron of Hope (VOW) 18
 1 Cruel Witness (VOW) 55
-
 ```
 
-
-
-## 4-9-22
+## 220409
 ```
 Deck
 10 Plains (UST) 212
@@ -47,10 +52,9 @@ Deck
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
 1 A-Alrund's Epiphany (KHM) 41
-
 ```
 
-### 211219
+## 211219
 ```
 Deck
 10 Plains (UST) 212
@@ -70,10 +74,10 @@ Deck
 2 Aerial Assault (M20) 1
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
-
 Sideboard
 ```
 
+## 211201
 ```
 Deck
 12 Plains (UST) 212
@@ -94,7 +98,8 @@ Deck
 1 Alrund's Epiphany (KHM) 41
 2 Aerial Assault (M20) 1
 ```
-### 210714
+
+## 210714
 ```
 Deck
 8 Island (UST) 213
@@ -123,7 +128,8 @@ Deck
 Sideboard
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 ```
-### 210629
+
+## 210629
 ```
 Deck
 8 Island (UST) 213

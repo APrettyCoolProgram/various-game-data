@@ -1,4 +1,14 @@
 # Auspicious Cubwarden
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Auspicious-Cubwarden-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220710
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -17,12 +27,9 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
-
-Sideboard
 ```
 
-
-### 210130
+## 210130
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -47,13 +54,9 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
-
-Sideboard
-
 ```
 
-
-### 210127
+## 210127
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -78,8 +81,4 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
-
-Sideboard
-
 ```
-
