@@ -1,4 +1,14 @@
 # Chandra's Elementals
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Chandra's-Elementals-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220710
 ```
 Deck
 2 Chandra, Novice Pyromancer (M20) 128
@@ -18,7 +28,4 @@ Deck
 4 Chandra's Spitfire (M20) 132
 2 Chandra, Heart of Fire (M21) 135
 4 Chandra's Outrage (M20) 130
-
-Sideboard
-
 ```

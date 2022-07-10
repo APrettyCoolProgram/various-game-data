@@ -1,4 +1,14 @@
 # Bats, Cats, & Rats
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Bats-Cats-and-Rats-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220710
 ```
 Deck
 10 Plains (UST) 212
@@ -20,10 +30,9 @@ Deck
 4 Burglar Rat (GRN) 64
 2 Plaguecrafter's Familiar (J21) 18
 2 Dirge Bat (IKO) 84
-
 ```
 
-### 210930
+## 210930
 ```
 Deck
 4 Regal Bloodlord (M19) 222
@@ -44,8 +53,4 @@ Deck
 2 Pack Rat (RTR) 73
 4 Murder (M20) 109
 1 Pacifism (JMP) 125
-
-Sideboard
-
 ```
-

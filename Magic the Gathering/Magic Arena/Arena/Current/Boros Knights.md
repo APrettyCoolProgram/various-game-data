@@ -1,4 +1,14 @@
 # Boros Knights
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Boros-Knights-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220710
 ```
 Deck
 11 Plains (UST) 212
@@ -16,10 +26,9 @@ Deck
 4 History of Benalia (DAR) 21
 2 Ardenvale Tactician (ELD) 5
 1 Ajani's Welcome (M19) 6
-
 ```
 
-### 210911
+## 210911
 ```
 Deck
 1 Swathcutter Giant (GRN) 202
@@ -44,12 +53,9 @@ Deck
 1 Sacred Foundry (GRN) 254
 1 Clifftop Retreat (DAR) 239
 1 Secluded Steppe (ONS) 324
-
-Sideboard
-
 ```
 
-### 210101
+## 210101
 ```
 Deck
 1 Swathcutter Giant (GRN) 202
@@ -70,12 +76,9 @@ Deck
 1 Response // Resurgence (GRN) 229
 4 Justice Strike (GRN) 182
 1 Integrity // Intervention (GRN) 227
-
-Sideboard
-
 ```
 
-### 201217
+## 201217
 ```
 Deck
 3 Swathcutter Giant (GRN) 202
@@ -96,7 +99,4 @@ Deck
 1 Response // Resurgence (GRN) 229
 4 Justice Strike (GRN) 182
 1 Integrity // Intervention (GRN) 227
-
-Sideboard
-
 ```
