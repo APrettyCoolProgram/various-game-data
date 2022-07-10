@@ -1,4 +1,14 @@
 # Creature Killer
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Creature-Killer-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220710
 ```
 Deck
 4 Blazing Volley (IKO) 107
@@ -17,7 +27,8 @@ Deck
 2 Dual Strike (KHM) 132
 1 Demon Bolt (KHM) 129
 ```
-### 210131
+
+## 210131
 ```
 Deck
 4 Blazing Volley (IKO) 107
