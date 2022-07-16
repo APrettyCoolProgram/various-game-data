@@ -1,4 +1,14 @@
 # Heir of the Ancients
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Heir-of-the-Ancients-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220715
 ```
 Deck
 11 Plains (UST) 212
@@ -16,10 +26,9 @@ Deck
 4 A-Kargan Warleader (ZNR) 224
 4 Kor Blademaster (ZNR) 21
 4 Needleverge Pathway (ZNR) 263
-
 ```
 
-### 220513
+## 220513
 ```
 Deck
 11 Plains (UST) 212
@@ -38,7 +47,8 @@ Deck
 4 Kor Blademaster (ZNR) 21
 4 Needleverge Pathway (ZNR) 263
 ```
-### 210715
+
+## 210715
 ```
 Deck
 13 Plains (UST) 212
