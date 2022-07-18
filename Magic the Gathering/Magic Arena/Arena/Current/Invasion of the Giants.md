@@ -1,4 +1,14 @@
-# Prismari Giants
+# Invasion of the Giants
+
+<table style="background-color:black;">
+    <tr>
+        <td>
+            <img src="../Resources/Invasion-of-the-Giants-details.png" width="1000">
+        </td>
+    </tr>
+</table> 
+
+# 220717
 ```
 Deck
 2 Invasion of the Giants (KHM) 215
@@ -23,7 +33,8 @@ Deck
 1 Doomskar Titan (KHM) 130
 1 Hall of Storm Giants (AFR) 257
 ```
-#### 210713
+
+## 210713
 ```
 Deck
 2 Invasion of the Giants (KHM) 215
