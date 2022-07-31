@@ -283,5 +283,11 @@
 
 OTHER
 
- * Bond of Discipline
- * Abiding Grace
+* Bond of Discipline
+* Abiding Grace (lifegain decks)
+* Forsaken Monument (colorless decks)
+
+* Disturbed deck
+* Keyword decks
+
+* Black Weenie 4 Deyth

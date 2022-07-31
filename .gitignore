@@ -43,4 +43,4 @@ bld/
 .vs/
 
 ## MacOS specific
-*DS_Store
+*.DS_Store
