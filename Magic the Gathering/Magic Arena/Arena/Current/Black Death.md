@@ -26,4 +26,6 @@ Deck
 1 Crux of Fate (STA) 25
 1 Deadly Visit (GRN) 68
 1 Lich's Caress (M19) 105
+
+Sideboard
 ```
