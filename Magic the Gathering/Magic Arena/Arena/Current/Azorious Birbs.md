@@ -30,6 +30,8 @@ Deck
 1 A-Alrund's Epiphany (KHM) 41
 2 Heron of Hope (VOW) 18
 1 Cruel Witness (VOW) 55
+
+Sideboard
 ```
 
 ## 220409
@@ -52,6 +54,8 @@ Deck
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
 1 A-Alrund's Epiphany (KHM) 41
+
+Sideboard
 ```
 
 ## 211219
@@ -74,6 +78,7 @@ Deck
 2 Aerial Assault (M20) 1
 2 Oketra's Attendant (AKR) 28
 4 Hengegate Pathway (KHM) 260
+
 Sideboard
 ```
 
@@ -97,6 +102,8 @@ Deck
 1 Aven Gagglemaster (M21) 5
 1 Alrund's Epiphany (KHM) 41
 2 Aerial Assault (M20) 1
+
+Sideboard
 ```
 
 ## 210714
