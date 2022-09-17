@@ -26,6 +26,8 @@ Deck
 4 Frost Bite (KHM) 138
 2 Dual Strike (KHM) 132
 1 Demon Bolt (KHM) 129
+
+Sideboard
 ```
 
 ## 210131
@@ -45,4 +47,6 @@ Deck
 2 Mutiny (RIX) 106
 4 Shock (M21) 159
 3 Slaying Fire (ELD) 143
+
+Sideboard
 ```
