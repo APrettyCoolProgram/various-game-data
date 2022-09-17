@@ -23,4 +23,6 @@ Deck
 2 Earth-Cult Elemental (AFR) 141
 4 Spiked Pit Trap (AFR) 251
 2 Treasure Chest (AFR) 252
+
+Sideboard
 ```
