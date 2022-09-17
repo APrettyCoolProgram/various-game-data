@@ -1,48 +1,34 @@
-<!--
-NAME OF DECK
-This is the name of the deck.
--->
+<!-- NAME OF DECK -->
 # Angrath
 
-<!--
-DECK CARD AND DESCRIPTION
-The deck card should be the card that is used for the deckbox.
--->
+<!-- DECK SCREENSHOT -->
+
 <table>
   <tr>
-    <td width="300">
-      <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=461154&type=card" height="370" width="265">
+    <td>
+      <img src="../Resources/%DeckName%-details.png" width="1000">
     </td>
-    <td width="700" valign="top"><h3>Description</h3>This is the decription of the deck.</td>
   </tr>
-</table>
+</table> 
 
-<!--
-WIN CONDITIONS
-A quick overview of the win condition(s) of this deck.
--->
-### Win conditions
+<!-- DECK DESCRIPTION -->
+## Description
 These are the win conditions of this deck.
 
-<!--
-STRENGHTS AND WEAKNESSES
-A quick overview of what this deck is good at, and what it's bad at.
--->
-### Strengths and Weaknesses
+<!-- WIN CONDITIONS -->
+## Win conditions
+These are the win conditions of this deck.
+
+<!-- STRENGTHS AND WEAKNESSES -->
+## Strengths and Weaknesses
 These are the strengths and weaknesses of this deck.
 
-<!--
-STRATEGY
-A quick overview of how this deck should be played.
--->
-### Strategy
+<!-- STRATEGY -->
+## Strategy
 This is the strategy you should use when playing this deck.
 
-<!--
-DECKLIST
-The current decklist.
--->
-## Decklist
+<!-- CURRENT DECKLIST -->
+## Current decklist
 
 ```#bash
 Deck
@@ -80,17 +66,10 @@ Sideboard
 
 ```
 
-<!--
-ARCHIVES
-Archived versions of this deck.
--->
-<details>
-<summary>
-Decklist archives
-</summary>
+<!-- DECK ARCHIVES -->
+## Decklist archives
 
-## 211101
-
+### 211101
 ```#bash
 Deck
 4 Angrath's Rampage (WAR) 185
@@ -119,11 +98,9 @@ Deck
 3 Hurloon Minotaur (ANB) 74
 
 Sideboard
-
 ```
 
-## 201207
-
+### 201207
 ```#bash
 Deck
 2 Angrath, Captain of Chaos (WAR) 227
@@ -156,8 +133,4 @@ Deck
 
 Sideboard
 
-```
-
-</details>
-
-<!-- b211115.1426 -->
+``` 
