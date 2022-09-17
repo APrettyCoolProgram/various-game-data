@@ -36,6 +36,8 @@ Deck
 2 Dragonskull Summit (XLN) 252
 3 Hurloon Minotaur (ANB) 74
 4 Blightstep Pathway (KHM) 252
+
+Sideboard
 ```
 
 ## 211101
@@ -65,6 +67,8 @@ Deck
 2 Forgotten Cave (ONS) 317
 2 Dragonskull Summit (XLN) 252
 3 Hurloon Minotaur (ANB) 74
+
+Sideboard
 ```
 
 ## 201207
@@ -97,6 +101,8 @@ Deck
 1 Forgotten Cave (ONS) 317
 2 Dragonskull Summit (XLN) 252
 1 Thriving Moor (JMP) 37
+
+Sideboard
 ```
 
 ## 201206
@@ -114,4 +120,6 @@ Deck
 4 Sorin's Thirst (WAR) 104
 4 Angrath, Captain of Chaos (WAR) 227
 1 Akoum Warrior (ZNR) 134
+
+Sideboard
 ```
