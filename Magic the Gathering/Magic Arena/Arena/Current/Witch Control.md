@@ -1,6 +1,6 @@
 # Witch Control
 
-## 22
+## 220917
 ```
 Deck
 4 Witch's Cauldron (M21) 129
@@ -24,9 +24,7 @@ Deck
 
 ```
 
-
-## 4-9-22
-
+### 220422
 ```
 Deck
 1 Witch's Cauldron (M21) 129
