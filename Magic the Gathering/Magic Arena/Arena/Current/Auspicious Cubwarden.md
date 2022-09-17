@@ -27,6 +27,8 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
+
+Sideboard
 ```
 
 ## 210130
@@ -54,6 +56,8 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
+
+Sideboard
 ```
 
 ## 210127
@@ -81,4 +85,6 @@ Deck
 2 Join Shields (GRN) 181
 1 Appeal /// Authority (AKR) 227
 2 Mirari's Wake (JUD) 139
+
+Sideboard
 ```
