@@ -1,4 +1,4 @@
-# Magic: the Gathering ideas
+# Magic: the Gathering deck ideas
 
 ## Classes
 
