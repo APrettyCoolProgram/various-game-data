@@ -8,7 +8,7 @@
     </tr>
 </table> 
 
-# 220710
+## 220710
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -31,7 +31,7 @@ Deck
 Sideboard
 ```
 
-## 210130
+### 210130
 ```
 Deck
 4 Cubwarden (IKO) 7
@@ -60,7 +60,7 @@ Deck
 Sideboard
 ```
 
-## 210127
+### 210127
 ```
 Deck
 4 Cubwarden (IKO) 7
