@@ -1,11 +1,11 @@
 # Angrath
 
 <table>
-    <tr>
-        <td>
-            <img src="../Resources/Angrath-details.png" width="1000">
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img src="../Resources/Angrath-details.png" width="1000">
+    </td>
+  </tr>
 </table> 
 
 ## 220710
