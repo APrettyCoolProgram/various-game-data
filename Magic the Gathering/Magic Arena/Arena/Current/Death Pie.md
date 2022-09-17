@@ -17,10 +17,9 @@ Deck
 4 Darkbore Pathway (KHM) 254
 
 Sideboard
-
 ```
 
-### 210130
+## 210130
 ```
 Deck
 9 Forest (UST) 216
@@ -38,10 +37,9 @@ Deck
 4 Hired Poisoner (GRN) 72
 
 Sideboard
-
 ```
 
-### 201220
+## 201220
 ```
 Deck
 2 Garruk, Cursed Huntsman (ELD) 191
@@ -60,9 +58,10 @@ Deck
 4 Hired Poisoner (GRN) 72
 
 Sideboard
-
 ```
 
+## 201219
+```
 Deck
 22 Forest (UST) 216
 1 Ravenous Lindwurm (KHM) 187
@@ -95,7 +94,11 @@ Deck
 1 Siege Wurm (GRN) 144
 1 Impervious Greatwurm (GRN) 273
 
+Sideboard
+```
 
+## 201218
+```
 Deck
 22 Forest (UST) 216
 1 Ravenous Lindwurm (KHM) 187
@@ -127,3 +130,6 @@ Deck
 1 Greater Sandwurm (AKR) 192
 1 Siege Wurm (GRN) 144
 1 Impervious Greatwurm (GRN) 273
+
+Sideboard
+```
