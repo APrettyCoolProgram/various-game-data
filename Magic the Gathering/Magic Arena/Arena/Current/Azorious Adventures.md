@@ -26,6 +26,8 @@ Deck
 2 Queen of Ice (ELD) 61
 4 Shepherd of the Flock (ELD) 28
 2 Merfolk Secretkeeper (ELD) 53
+
+Sideboard
 ```
 
 ## 210821
@@ -45,4 +47,6 @@ Deck
 3 Animating Faerie (ELD) 38
 1 Brazen Borrower (ELD) 39
 3 Queen of Ice (ELD) 61
+
+Sideboard
 ```
