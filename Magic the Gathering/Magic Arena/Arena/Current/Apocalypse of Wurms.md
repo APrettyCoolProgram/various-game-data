@@ -29,4 +29,6 @@ Deck
 2 Woodland Cemetery (DAR) 248
 4 Gift of Paradise (M20) 173
 4 Cultivate (STA) 51
+
+Sideboard
 ```
