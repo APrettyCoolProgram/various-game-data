@@ -97,6 +97,7 @@ Deck
 1 Blinding Fog (XLN) 177
 1 Thwart the Enemy (IKO) 173
 ```
+
 ### 210717
 ```
 Deck
