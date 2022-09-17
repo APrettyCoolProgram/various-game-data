@@ -33,6 +33,8 @@ Deck
 2 Courier Bat (VOW) 102
 2 Bloodhunter Bat (JMP) 210
 1 Nezumi Prowler (NEO) 116
+
+Sideboard
 ```
 
 ## 220709
@@ -57,6 +59,8 @@ Deck
 4 Burglar Rat (GRN) 64
 2 Plaguecrafter's Familiar (J21) 18
 2 Dirge Bat (IKO) 84
+
+Sideboard
 ```
 
 ## 210930
@@ -80,4 +84,6 @@ Deck
 2 Pack Rat (RTR) 73
 4 Murder (M20) 109
 1 Pacifism (JMP) 125
+
+Sideboard
 ```
