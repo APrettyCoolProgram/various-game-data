@@ -1,4 +1,5 @@
 # Divinity Bishop
+
 ```
 Deck
 4 Divine Visitation (GRN) 10
@@ -15,8 +16,6 @@ Deck
 4 Secluded Steppe (ONS) 324
 1 Basri Ket (M21) 7
 2 Release the Dogs (JMP) 4
-
-Sideboard
 
 ```
 

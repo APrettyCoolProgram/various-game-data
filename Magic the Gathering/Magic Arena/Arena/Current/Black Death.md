@@ -1,14 +1,5 @@
 # Black Death
 
-<table style="background-color:black;">
-    <tr>
-        <td>
-            <img src="../Resources/Black-Death-details.png" width="1000">
-        </td>
-    </tr>
-</table> 
-
-# 220710
 ```
 Deck
 4 Cast Down (DAR) 81
@@ -27,5 +18,4 @@ Deck
 1 Deadly Visit (GRN) 68
 1 Lich's Caress (M19) 105
 
-Sideboard
 ```

@@ -1,14 +1,5 @@
 # Foxes!
 
-<table style="background-color:black;">
-    <tr>
-        <td>
-            <img src="../Resources/Foxes-details.png" width="1000">
-        </td>
-    </tr>
-</table> 
-
-## 220714
 ```
 Deck
 4 Dragonfly Pilot (Y22) 1
@@ -26,4 +17,5 @@ Deck
 13 Plains (UST) 212
 4 Jaya's Greeting (WAR) 136
 4 Needleverge Pathway (ZNR) 263
+
 ```

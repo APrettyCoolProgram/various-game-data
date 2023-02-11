@@ -1,6 +1,6 @@
 # Instant Creature Killer
+
 ```
-Deck
 Deck
 2 Dual Shot (XLN) 141
 24 Snow-Covered Mountain (MH1) 253

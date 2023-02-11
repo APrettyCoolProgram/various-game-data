@@ -1,14 +1,5 @@
 # Class: Barbarian
 
-<table style="background-color:black;">
-    <tr>
-        <td>
-            <img src="../Resources/Class-Barbarian-details.png" width="1000">
-        </td>
-    </tr>
-</table> 
-
-# 220710
 ```
 Deck
 4 Barbarian Class (AFR) 131
@@ -24,5 +15,4 @@ Deck
 4 Spiked Pit Trap (AFR) 251
 2 Treasure Chest (AFR) 252
 
-Sideboard
 ```
