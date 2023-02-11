@@ -1,7 +1,6 @@
 # Creature Killer
 
 ```
-Deck
 4 Blazing Volley (IKO) 107
 24 Snow-Covered Mountain (MH1) 253
 4 Shivan Fire (DAR) 142
@@ -17,5 +16,4 @@ Deck
 4 Frost Bite (KHM) 138
 2 Dual Strike (KHM) 132
 1 Demon Bolt (KHM) 129
-
 ```

@@ -1,7 +1,6 @@
 # Heir of the Ancients
 
 ```
-Deck
 9 Mountain (UST) 215
 11 Plains (UST) 212
 2 Danitha Capashen, Paragon (DAR) 12
@@ -18,5 +17,4 @@ Deck
 4 Kor Blademaster (ZNR) 21
 4 Needleverge Pathway (ZNR) 263
 1 Halvar, God of Battle (KHM) 15
-
 ```

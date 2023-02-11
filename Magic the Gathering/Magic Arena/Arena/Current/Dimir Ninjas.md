@@ -1,6 +1,6 @@
 # Dimir Ninjas
+
 ```
-Deck
 4 Throatseeker (MH1) 110
 2 Prosperous Thief (NEO) 73
 1 Dokuchi Silencer (NEO) 95
@@ -26,5 +26,4 @@ Deck
 2 Tyrant's Scorn (WAR) 225
 2 Murder (M20) 109
 2 Withercrown (KHM) 119
-
 ```

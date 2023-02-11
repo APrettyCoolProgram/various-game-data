@@ -1,6 +1,6 @@
 # The Flying Orzovs
+
 ```
-Deck
 12 Swamp (VOW) 400
 3 Owlin Shieldmage (STX) 210
 1 Blessed Defiance (MID) 5
@@ -20,5 +20,4 @@ Deck
 1 Markov Purifier (VOW) 241
 2 Pacifism (IKO) 25
 4 Brightclimb Pathway (ZNR) 259
-
 ```

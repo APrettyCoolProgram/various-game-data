@@ -1,7 +1,6 @@
 # Elenda & Friends
 
 ```
-Deck
 2 Elenda, the Dusk Rose (RIX) 157
 1 A-Death-Priest of Myrkul (AFR) 95
 10 Plains (UST) 212
@@ -20,5 +19,4 @@ Deck
 2 Banishing Light (THB) 4
 4 Brightclimb Pathway (ZNR) 259
 2 Call to the Feast (XLN) 219
-
 ```

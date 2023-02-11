@@ -1,7 +1,6 @@
 # Pirates, Attack!
 
 ```
-Deck
 9 Swamp (UST) 214
 4 Deadeye Tormentor (XLN) 98
 4 Rigging Runner (XLN) 157
@@ -17,5 +16,4 @@ Deck
 4 Dire Fleet Neckbreaker (RIX) 156
 4 Jaya's Greeting (WAR) 136
 4 Blightstep Pathway (KHM) 252
-
 ```

@@ -1,6 +1,6 @@
 # White Death
+
 ```
-Deck
 4 Light of Hope (IKO) 20
 26 Plains (UST) 212
 4 Swift Response (M21) 40

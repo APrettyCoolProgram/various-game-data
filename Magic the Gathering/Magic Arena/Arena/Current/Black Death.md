@@ -1,7 +1,6 @@
 # Black Death
 
 ```
-Deck
 4 Cast Down (DAR) 81
 24 Swamp (UST) 214
 4 Bloodchief's Thirst (ZNR) 94
@@ -17,5 +16,4 @@ Deck
 1 Crux of Fate (STA) 25
 1 Deadly Visit (GRN) 68
 1 Lich's Caress (M19) 105
-
 ```

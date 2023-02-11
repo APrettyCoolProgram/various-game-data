@@ -1,7 +1,6 @@
 # Invasion of the Giants
 
 ```
-Deck
 2 Invasion of the Giants (KHM) 215
 3 Bonecrusher Giant (ELD) 115
 2 Aegar, the Freezing Flame (KHM) 200
@@ -23,5 +22,4 @@ Deck
 1 Zalto, Fire Giant Duke (AFR) 171
 1 Doomskar Titan (KHM) 130
 1 Hall of Storm Giants (AFR) 257
-
 ```

@@ -1,7 +1,6 @@
 # Massed Zombies
 
 ```
-Deck
 24 Swamp (UST) 214
 4 Lazotep Reaver (WAR) 96
 4 Death Baron (M19) 90
@@ -16,5 +15,4 @@ Deck
 4 Bleeding Edge (WAR) 78
 4 Toll of the Invasion (WAR) 108
 2 Angrath, Captain of Chaos (WAR) 227
-
 ```

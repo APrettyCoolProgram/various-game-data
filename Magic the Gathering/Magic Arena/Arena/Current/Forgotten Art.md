@@ -1,7 +1,6 @@
 # Forgotten Art
 
 ```
-Deck
 2 Hive of the Eye Tyrant (AFR) 258
 2 Evolving Wilds (AFR) 256
 1 Lair of the Hydra (AFR) 259
@@ -26,5 +25,4 @@ Deck
 2 Cragcrown Pathway (ZNR) 261
 2 Blightstep Pathway (KHM) 252
 2 Darkbore Pathway (KHM) 254
-
 ```

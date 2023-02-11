@@ -1,7 +1,6 @@
 # Instant Creature Killer
 
 ```
-Deck
 2 Dual Shot (XLN) 141
 24 Snow-Covered Mountain (MH1) 253
 4 Frost Bite (KHM) 138
@@ -17,5 +16,4 @@ Deck
 1 Hidetsugu's Second Rite (SOK) 102
 2 Homing Lightning (JMP) 335
 1 Volcanic Geyser (M21) 171
-
 ```

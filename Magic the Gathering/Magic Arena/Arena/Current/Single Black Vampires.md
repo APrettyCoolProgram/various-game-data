@@ -1,6 +1,6 @@
 # Single Black Vampires
+
 ```
-Deck
 1 Arrogant Outlaw (MID) 84
 24 Swamp (VOW) 400
 1 Vampire Opportunist (WAR) 110
@@ -21,13 +21,13 @@ Deck
 1 Bat Whisperer (MID) 86
 1 Bloodcrazed Socialite (VOW) 96
 1 Bloodsworn Squire (VOW) 97
-1 Death-Priest of Myrkul (AFR) 95
+1 A-Death-Priest of Myrkul (AFR) 95
 1 Highborn Vampire (ZNR) 107
 1 Skulking Killer (VOW) 130
 1 Bloodtithe Collector (MID) 90
 1 Scion of the Swarm (ZNR) 121
 1 Sengir Vampire (ANB) 60
-1 Tenured Inkcaster (STX) 88
+1 A-Tenured Inkcaster (STX) 88
 1 Westgate Regent (AFR) 126
 1 Drana's Silencer (ZNR) 99
 1 Gift of Fangs (VOW) 113
@@ -38,5 +38,4 @@ Deck
 1 Curse of Leeches (MID) 94
 1 Dogged Pursuit (KHM) 85
 1 Lash of Malice (STX) 74
-
 ```

@@ -1,7 +1,6 @@
 # Auspicious Cubwarden
 
 ```
-Deck
 4 Cubwarden (IKO) 7
 10 Forest (UST) 216
 4 Vulpikeet (IKO) 37
@@ -16,5 +15,4 @@ Deck
 4 Pulse of Murasa (M20) 189
 1 Join Shields (GRN) 181
 4 Branchloft Pathway (ZNR) 258
-
 ```

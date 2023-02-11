@@ -1,7 +1,6 @@
 # Golgari Deathtouch
 
 ```
-Deck
 8 Swamp (UST) 214
 2 Boot Nipper (IKO) 76
 2 Grimdancer (IKO) 90
@@ -21,5 +20,4 @@ Deck
 2 Barren Moor (ONS) 312
 2 Tranquil Thicket (ONS) 326
 4 Darkbore Pathway (KHM) 254
-
 ```

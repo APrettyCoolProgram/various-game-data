@@ -1,7 +1,6 @@
 # Shriney Artifscts
 
 ```
-Deck
 2 Sanctum of Shattered Heights (M21) 157
 3 Hengegate Pathway (KHM) 260
 1 Go-Shintai of Shared Purpose (NEO) 14

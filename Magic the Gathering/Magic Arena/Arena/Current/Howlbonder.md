@@ -1,7 +1,6 @@
 # Howlbonder
 
 ```
-Deck
 10 Swamp (UST) 214
 10 Mountain (UST) 215
 3 Labyrinth Raptor (IKO) 193
@@ -20,5 +19,4 @@ Deck
 2 Ghor-Clan Wrecker (RNA) 103
 1 Ripscale Predator (M20) 157
 4 Tentative Connection (IKO) 138
-
 ```

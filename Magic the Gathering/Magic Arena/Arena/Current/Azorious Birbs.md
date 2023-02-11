@@ -1,7 +1,6 @@
 # Azorious Birbs
 
 ```
-Deck
 9 Island (UST) 213
 4 Healer's Hawk (GRN) 14
 4 Battlefield Raptor (KHM) 3
@@ -27,5 +26,4 @@ Deck
 1 Rustwing Falcon (M19) 36
 1 Swooping Protector (SNC) 33
 1 A-Speakeasy Server (SNC) 32
-
 ```

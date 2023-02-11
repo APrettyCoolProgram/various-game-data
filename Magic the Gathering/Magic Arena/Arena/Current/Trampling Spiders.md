@@ -1,6 +1,6 @@
 # Trampling Spiders
+
 ```
-Deck
 1 Thwart the Enemy (IKO) 173
 1 Chainweb Aracnir (THB) 167
 2 Snarespinner (WAR) 176
@@ -21,5 +21,4 @@ Deck
 1 Charge Through (STX) 124
 4 Heraldic Banner (ELD) 222
 4 Garruk's Uprising (M21) 186
-
 ```

@@ -1,6 +1,6 @@
 # Vratska
+
 ```
-Deck
 2 Vraska, Scheming Gorgon (RIX) 197
 1 Vraska, Golgari Queen (GRN) GR8
 12 Swamp (UST) 214
@@ -12,5 +12,4 @@ Deck
 4 Piper of the Swarm (ELD) 100
 4 Darkbore Pathway (KHM) 254
 3 Woodland Cemetery (DAR) 248
-
 ```

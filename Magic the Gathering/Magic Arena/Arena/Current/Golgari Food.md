@@ -1,7 +1,6 @@
 # Golgari Food
 
 ```
-Deck
 4 Bake into a Pie (ELD) 76
 10 Swamp (UST) 214
 4 Tempting Witch (ELD) 108
@@ -23,5 +22,4 @@ Deck
 3 Cauldron Familiar (ELD) 81
 1 Tranquil Thicket (ONS) 326
 2 Darkbore Pathway (KHM) 254
-
 ```

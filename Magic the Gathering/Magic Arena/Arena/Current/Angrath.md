@@ -1,7 +1,6 @@
 # Angrath
 
 ```
-Deck
 4 Angrath's Rampage (WAR) 185
 6 Mountain (UST) 215
 4 Swamp (UST) 214
@@ -27,5 +26,4 @@ Deck
 2 Dragonskull Summit (XLN) 252
 3 Hurloon Minotaur (ANB) 74
 4 Blightstep Pathway (KHM) 252
-
 ```

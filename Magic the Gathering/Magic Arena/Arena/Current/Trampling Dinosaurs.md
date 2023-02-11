@@ -1,6 +1,6 @@
 # Trampling Dinosaurs
+
 ```
-Deck
 2 Carnage Tyrant (XLN) 179
 10 Forest (UST) 216
 2 Quartzwood Crasher (IKO) 201
@@ -19,5 +19,4 @@ Deck
 4 Shock (M21) 159
 4 Cultivate (STA) 51
 4 Cragcrown Pathway (ZNR) 261
-
 ```

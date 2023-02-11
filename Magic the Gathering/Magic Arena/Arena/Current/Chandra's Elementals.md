@@ -1,7 +1,6 @@
 # Chandra's Elementals
 
 ```
-Deck
 2 Chandra, Novice Pyromancer (M20) 128
 4 Chandra's Embercat (M20) 129
 2 Chandra, Awakened Inferno (M20) 127
@@ -19,5 +18,4 @@ Deck
 1 Scampering Scorcher (M20) 158
 1 Tectonic Giant (THB) 158
 1 Lava Serpent (IKO) 124
-
 ```

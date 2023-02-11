@@ -1,7 +1,6 @@
 # Boros Knights
 
 ```
-Deck
 11 Plains (UST) 212
 9 Mountain (UST) 215
 4 Inspiring Veteran (ELD) 194
@@ -17,5 +16,4 @@ Deck
 4 History of Benalia (DAR) 21
 2 Ardenvale Tactician (ELD) 5
 1 Ajani's Welcome (M19) 6
-
 ```

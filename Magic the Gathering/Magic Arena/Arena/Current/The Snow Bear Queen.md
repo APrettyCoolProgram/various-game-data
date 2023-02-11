@@ -1,4 +1,5 @@
 # The Snow Bear Queen
+
 ```
 Deck
 4 Flaxen Intruder (ELD) 155
@@ -13,6 +14,4 @@ Deck
 4 Professor of Zoomancy (STX) 140
 2 Spirit of the Aldergard (KHM) 195
 4 Owlbear (AFR) 198
-
-Sideboard
 ```

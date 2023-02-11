@@ -1,7 +1,6 @@
 # Apocalypse of Wurms
 
 ```
-Deck
 2 Massacre Wurm (M21) 114
 11 Forest (UST) 216
 4 Dreadwurm (ZNR) 100
@@ -20,5 +19,4 @@ Deck
 2 Woodland Cemetery (DAR) 248
 4 Gift of Paradise (M20) 173
 4 Cultivate (STA) 51
-
 ```

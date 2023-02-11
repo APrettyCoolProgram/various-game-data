@@ -1,7 +1,6 @@
 # Bats, Cats, & Rats
 
 ```
-Deck
 10 Plains (UST) 212
 10 Swamp (UST) 214
 1 Blight Keeper (XLN) 92
@@ -24,5 +23,4 @@ Deck
 2 Courier Bat (VOW) 102
 2 Bloodhunter Bat (JMP) 210
 1 Nezumi Prowler (NEO) 116
-
 ```

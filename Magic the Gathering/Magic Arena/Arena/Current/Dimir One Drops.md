@@ -1,7 +1,6 @@
 # Dimir One Drops
 
 ```
-Deck
 8 Island (UST) 213
 4 Witching Well (ELD) 74
 4 Vampire of the Dire Moon (M20) 120
@@ -20,5 +19,4 @@ Deck
 2 Barren Moor (ONS) 312
 2 Malakir Rebirth (ZNR) 111
 4 Clearwater Pathway (ZNR) 260
-
 ```

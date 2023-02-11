@@ -1,17 +1,6 @@
 # White Weenie 4 Lyfe
 
-<table style="background-color:black;">
-    <tr>
-        <td>
-            <img src="../Resources/White-Weenie-4-Lyfe-details.png" width="1000">
-        </td>
-    </tr>
-</table> 
-
-
-## 220730
 ```
-Deck
 4 Anointed Chorister (M21) 4
 20 Plains (UST) 212
 4 Beloved Princess (ELD) 7

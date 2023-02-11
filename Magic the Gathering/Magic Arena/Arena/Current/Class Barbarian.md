@@ -1,7 +1,6 @@
 # Class: Barbarian
 
 ```
-Deck
 4 Barbarian Class (AFR) 131
 24 Mountain (UST) 215
 3 Critical Hit (AFR) 137
@@ -14,5 +13,4 @@ Deck
 2 Earth-Cult Elemental (AFR) 141
 4 Spiked Pit Trap (AFR) 251
 2 Treasure Chest (AFR) 252
-
 ```

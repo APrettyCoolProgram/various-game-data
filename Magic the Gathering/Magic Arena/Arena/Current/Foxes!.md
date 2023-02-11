@@ -1,7 +1,6 @@
 # Foxes!
 
 ```
-Deck
 4 Dragonfly Pilot (Y22) 1
 7 Mountain (UST) 215
 4 Flourishing Fox (IKO) 13
@@ -17,5 +16,4 @@ Deck
 13 Plains (UST) 212
 4 Jaya's Greeting (WAR) 136
 4 Needleverge Pathway (ZNR) 263
-
 ```

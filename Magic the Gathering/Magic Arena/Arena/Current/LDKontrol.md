@@ -1,7 +1,6 @@
 # LDKontrol
 
 ```
-Deck
 7 Forest (UST) 216
 4 Stone Rain (STA) 45
 4 Demolish (WAR) 123
@@ -15,5 +14,4 @@ Deck
 4 Waking the Trolls (KHM) 234
 13 Mountain (UST) 215
 4 Cragcrown Pathway (ZNR) 261
-
 ```

@@ -1,7 +1,6 @@
 # Azorious Adventures
 
 ```
-Deck
 4 Faerie Guidemother (ELD) 11
 9 Island (UST) 213
 4 Giant Killer (ELD) 14
@@ -17,5 +16,4 @@ Deck
 2 Queen of Ice (ELD) 61
 4 Shepherd of the Flock (ELD) 28
 2 Merfolk Secretkeeper (ELD) 53
-
 ```

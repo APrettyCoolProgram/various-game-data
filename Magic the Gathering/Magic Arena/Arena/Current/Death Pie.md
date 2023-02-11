@@ -1,7 +1,6 @@
 # Death Pie
 
 ```
-Deck
 11 Swamp (UST) 214
 9 Forest (UST) 216
 4 Knight of the Ebon Legion (M20) 105
@@ -14,5 +13,4 @@ Deck
 4 Return to Nature (WAR) 175
 4 Hired Poisoner (GRN) 72
 4 Darkbore Pathway (KHM) 254
-
 ```
