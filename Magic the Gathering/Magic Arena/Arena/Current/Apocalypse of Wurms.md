@@ -1,14 +1,5 @@
 # Apocalypse of Wurms
 
-<table style="background-color:black;">
-    <tr>
-        <td>
-            <img src="../Resources/Apocalypse-of-Wurms-details.png" width="1000">
-        </td>
-    </tr>
-</table> 
-
-## 220710
 ```
 Deck
 2 Massacre Wurm (M21) 114
@@ -30,5 +21,4 @@ Deck
 4 Gift of Paradise (M20) 173
 4 Cultivate (STA) 51
 
-Sideboard
 ```
