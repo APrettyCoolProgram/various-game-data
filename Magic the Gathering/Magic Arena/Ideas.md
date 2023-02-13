@@ -292,3 +292,16 @@ OTHER
 * Keyword decks
 
 * Black Weenie 4 Deyth
+
+
+
+
+White weenie life deaths
+Leonin Vanguard
+Haazda Marshal
+Kitesail Cleric
+Arcbound Mouser
+Healer's Hawk
+Soul warden
+
+Speaker of the Heavens
